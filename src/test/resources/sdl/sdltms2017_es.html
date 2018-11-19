@@ -1,0 +1,516 @@
+﻿<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:XmlReporting="urn:XmlReporting">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8"><LINK href="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio5\ReportResources\css\reports.css" type="text/css" rel="stylesheet"><script language="JavaScript">
+					
+						function OpenFile(guid)
+						{
+							if (window.external)
+							{
+								try
+								{
+									window.external.OpenFile(guid); 
+								}
+								catch (e)
+								{
+									document.getElementById(guid).click();
+								}
+							}
+							else
+							{
+								document.getElementById(guid).click();
+							}
+						}
+						
+						function Switch(fileguid, showhide)
+						{
+							if (showhide == "hide")
+							{
+								document.getElementById(fileguid + "_plus").style.display="";
+								document.getElementById(fileguid + "_minus").style.display="none";							
+								document.getElementById(fileguid + "_files").style.display="none";
+							}
+							else
+							{
+								document.getElementById(fileguid + "_plus").style.display="none";
+								document.getElementById(fileguid + "_minus").style.display="";							
+								document.getElementById(fileguid + "_files").style.display="";
+							}
+						}
+					
+						
+					</script></head>
+  <body>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="100%">
+          <h1>Informe de análisis de archivos</h1>
+        </td>
+        <td valign="top"><img src="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio5\ReportResources\images/StudioPower.jpg&#xD;&#xA;                "></td>
+      </tr>
+    </table>
+    <h2 class="first">Resumen</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Tarea:</td>
+        <td class="InfoData">Analizar archivos</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Proyecto:</td>
+        <td class="InfoData">2017-796-2-EN-US _ PL-2 [EN-US]-[PL] Trados multi tm test 2 }xtrf60.dev</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Fecha de entrega:</td>
+        <td class="InfoData">26.10.2017 16:00:00</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Proveedores de traducción:</td>
+        <td class="InfoData">Default TM for EN-US to PL for 001082 xtrf60.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem"></td>
+        <td class="InfoData">2017-796-2-EN-US _ PL-2 [EN-US]-[PL] Trados multi tm test 2 }xtrf60.dev_Default TM for EN-US to PL for 001082 xtrf60.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem"></td>
+        <td class="InfoData">master EN-US to PL.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Idioma:</td>
+        <td class="InfoData">Polish (Poland)</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Archivos:</td>
+        <td class="InfoData">1</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Creado:</td>
+        <td class="InfoData">25.10.2017 10:33:13</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Duración de la tarea:</td>
+        <td class="InfoData">1 Sekunden</td>
+      </tr>
+    </table>
+    <h2 class="first">Configuración</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Informar de las repeticiones entre archivos:</td>
+        <td class="InfoData InfoDataMinColWidth">Sí</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Informar del aprovechamiento de coincidencias parciales internas:</td>
+        <td class="InfoData">No</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Contar segmentos bloqueados por separado: </td>
+        <td class="InfoData">No</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Valor mínimo de coincidencia:</td>
+        <td class="InfoData">70%</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Modo de búsqueda:</td>
+        <td colspan="2" class="InfoData">Utilizar la mejor coincidencia de todos los orígenes de traducción.</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por falta de formato:</td>
+        <td class="InfoData">1%</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por diferencias de formato:</td>
+        <td class="InfoData">1%</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por varias traducciones:</td>
+        <td class="InfoData">1%</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por localización automática:</td>
+        <td class="InfoData">0%</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por reemplazo de texto:</td>
+        <td class="InfoData">0%</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem"> </td>
+        <td class="InfoData"> </td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Opciones de coincidencia de fragmentos de segmentos</td>
+        <td class="InfoData">Unidad de traducción completa</td>
+        <td class="InfoData">Fragmento de unidad de traducción</td>
+      </tr>
+      <tr>
+        <td class="InfoItemWithIndent">Número mínimo de palabras para una coincidencia:</td>
+        <td class="InfoData">2</td>
+        <td class="InfoData">n.v</td>
+      </tr>
+      <tr>
+        <td class="InfoItemWithIndent">Número mínimo de palabras significativas en una coincidencia:</td>
+        <td class="InfoData">2</td>
+        <td class="InfoData">n.v</td>
+      </tr>
+    </table>
+    <h2>Totales</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Total</th>
+        <th class="TypeHead">Tipo</th>
+        <th class="Unit">Segmentos</th>
+        <th class="Unit">Palabras</th>
+        <th class="Unit">Caracteres</th>
+        <th class="Unit">Porcentaje</th>
+        <th class="Unit UnitWrap">Elementos reconocidos</th>
+        <th class="Unit">Palabras de fragmentos<br>(unidad de traducción completa)</th>
+        <th class="Unit">Palabras de fragmentos<br>(fragmento de unidad de traducción)</th>
+        <th class="Unit UnitWrap">Impacto de AdaptiveMT</th>
+        <th class="Unit">Etiquetas</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Archivos:1</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="12" align="left" valign="top">Caracteres/palabra:2.60</th>
+        <th class="Header">Coincidencia de contexto</th>
+        <td>2</td>
+        <td>3</td>
+        <td>9</td>
+        <td>60.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Repeticiones</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Repeticiones entre archivos</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>2</td>
+        <td>2</td>
+        <td>4</td>
+        <td>40.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Nuevas/AT</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Motor básico de AdaptiveMT</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">AdaptiveMT con aprendizaje</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">4</td>
+        <td class="Total">5</td>
+        <td class="Total">13</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+        <td class="Total">0.00%</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+    <h2>Detalles del archivo</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Archivo</th>
+        <th class="TypeHead">Tipo</th>
+        <th class="Unit">Segmentos</th>
+        <th class="Unit">Palabras</th>
+        <th class="Unit">Caracteres</th>
+        <th class="Unit">Porcentaje</th>
+        <th class="Unit UnitWrap">Elementos reconocidos</th>
+        <th class="Unit">Palabras de fragmentos<br>(unidad de traducción completa)</th>
+        <th class="Unit">Palabras de fragmentos<br>(fragmento de unidad de traducción)</th>
+        <th class="Unit UnitWrap">Impacto de AdaptiveMT</th>
+        <th class="Unit">Etiquetas</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">document.txt.sdlxliff</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="12" align="left" valign="top">Caracteres/palabra:2.60</th>
+        <th class="Header">Coincidencia de contexto</th>
+        <td>2</td>
+        <td>3</td>
+        <td>9</td>
+        <td>60.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Repeticiones</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Repeticiones entre archivos</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>2</td>
+        <td>2</td>
+        <td>4</td>
+        <td>40.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Nuevas/AT</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Motor básico de AdaptiveMT</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">AdaptiveMT con aprendizaje</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">4</td>
+        <td class="Total">5</td>
+        <td class="Total">13</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+        <td class="Total">0.00%</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+  </body>
+</html>

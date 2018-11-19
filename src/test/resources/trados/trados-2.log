@@ -1,0 +1,63 @@
+Start Analyse: Tue Nov 29 17:28:55 2005
+
+Translation Memory: J:\OPERATIONS\Projects test\_Client\ClinPhone\TMs\Polish\clinphone en-polish.tmw
+
+\\scratchy\VOL3\OPERATIONS\Projects test\Jobs\ClinPhone\Projects\UP348832 - PQR088\Source\Processed Source\Polish\PQR088_INVESTIGATOR_IVR GUIDE_v2.0.xml.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ XTranslated        32           43       6          0
+ Repetitions         1            5       1          0
+ 100%               73          531      69          0
+ 95% - 99%           0            0       0          0
+ 85% - 94%          14           74      10          0
+ 75% - 84%           5           45       6          0
+ 50% - 74%           0            0       0          0
+ No Match           12           76       8          0
+ Total             137          774     100          0
+
+ Chars/Word       5.22
+ Chars Total     4,043
+
+
+
+\\scratchy\VOL3\OPERATIONS\Projects test\Jobs\ClinPhone\Projects\UP348832 - PQR088\Source\Processed Source\Polish\PQR088_INVESTIGATOR_WORKSHEETS_v2.0.xml.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ XTranslated        55          302      14          0
+ Repetitions        30          195       9          0
+ 100%              182        1,101      50          0
+ 95% - 99%           6           88       4          0
+ 85% - 94%          14          200       9          0
+ 75% - 84%           8           88       4          0
+ 50% - 74%           3           61       3          0
+ No Match           15          179       7          0
+ Total             313        2,214     100          0
+
+ Chars/Word       4.60
+ Chars Total    10,200
+
+
+
+Analyse Total (2 files):
+
+ Match Types  Segments        Words Percent Placeables
+ XTranslated        87          345      12          0
+ Repetitions        31          200       7          0
+ 100%              255        1,632      55          0
+ 95% - 99%           6           88       3          0
+ 85% - 94%          28          274       9          0
+ 75% - 84%          13          133       4          0
+ 50% - 74%           3           61       2          0
+ No Match           27          255       8          0
+ Total             450        2,988     100          0
+
+ Chars/Word       4.76
+ Chars Total    14,243
+
+
+
+Analyse finished successfully without errors!
+
+Tue Nov 29 17:29:04 2005
+================================================================================
+

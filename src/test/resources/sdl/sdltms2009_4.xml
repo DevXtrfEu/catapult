@@ -1,0 +1,319 @@
+<task name="analyse">
+	<taskInfo
+		taskId="ccd16680-189a-482d-9dbd-c4cc218a5907"
+		runAt="2010.03.19. 13:38:11"
+		runTime="47 seconds">
+		<project
+			name="Project 3"
+			number="91c8cefa-d789-4c43-a2f4-8d02d5ad2608"
+			dueDate="2010.03.19. 18:00:00" />
+		<language
+			lcid="1062"
+			name="Latvian (Latvia)" />
+		<tm name="TM_Mestako_EN_LV" />
+		<settings
+			reportInternalFuzzyLeverage="no"
+			reportCrossFileRepetitions="yes"
+			minimumMatchScore="70"
+			searchMode="bestWins"
+			missingFormattingPenalty="1"
+			differentFormattingPenalty="1"
+			multipleTranslationsPenalty="1"
+			autoLocalizationPenalty="0"
+			textReplacementPenalty="0" />
+	</taskInfo>
+	<file
+		name="19_03_2009_STUDIO_Training_EN.html"
+		guid="ea6f8f2a-9f73-4847-bc21-c91f0437f0b4">
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<exact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<repeated
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<total
+				segments="23"
+				words="296"
+				characters="1598"
+				placeables="182"
+				tags="145" />
+			<new
+				segments="22"
+				words="294"
+				characters="1577"
+				placeables="177"
+				tags="140" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="1"
+				words="2"
+				characters="21"
+				placeables="5"
+				tags="5" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+		</analyse>
+	</file>
+	<file
+		name="Getting Started.docx"
+		guid="1791f355-ef44-4091-9b1e-9b339f0b138e">
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<exact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<repeated
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<total
+				segments="58"
+				words="453"
+				characters="2588"
+				placeables="46"
+				tags="0" />
+			<new
+				segments="55"
+				words="437"
+				characters="2509"
+				placeables="40"
+				tags="0" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="2"
+				words="12"
+				characters="59"
+				placeables="4"
+				tags="0" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="1"
+				words="4"
+				characters="20"
+				placeables="2"
+				tags="0" />
+		</analyse>
+	</file>
+	<file
+		name="Upgrade from SDL Trados.docx"
+		guid="37231271-e536-45d3-8a08-f783048b1ccc">
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<exact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<repeated
+				segments="10"
+				words="118"
+				characters="636"
+				placeables="21"
+				tags="0" />
+			<total
+				segments="64"
+				words="534"
+				characters="3012"
+				placeables="101"
+				tags="0" />
+			<new
+				segments="53"
+				words="413"
+				characters="2355"
+				placeables="80"
+				tags="0" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="1"
+				words="3"
+				characters="21"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+		</analyse>
+	</file>
+	<batchTotal>
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<exact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<repeated
+				segments="10"
+				words="118"
+				characters="636"
+				placeables="21"
+				tags="0" />
+			<total
+				segments="145"
+				words="1283"
+				characters="7198"
+				placeables="329"
+				tags="145" />
+			<new
+				segments="130"
+				words="1144"
+				characters="6441"
+				placeables="297"
+				tags="140" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="2"
+				words="12"
+				characters="59"
+				placeables="4"
+				tags="0" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="1"
+				words="3"
+				characters="21"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="1"
+				words="2"
+				characters="21"
+				placeables="5"
+				tags="5" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="1"
+				words="4"
+				characters="20"
+				placeables="2"
+				tags="0" />
+		</analyse>
+	</batchTotal>
+</task>

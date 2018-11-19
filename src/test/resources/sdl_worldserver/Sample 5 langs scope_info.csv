@@ -1,0 +1,22 @@
+Target Locale,Asset,Total,ICE Match,100%,100-95%,95-85%,85-75%,75-50%,50-0%,Repetition,Cost Estimate,MT Fuzzy Words,Multiple 100%
+"Chinese (Simplified)","sample file 01",183,10,115,6,17,3,12,20,0,"0",0,0
+"Chinese (Simplified)","sample file 02",214,10,92,4,14,0,15,53,26,"0",0,0
+"Chinese (Simplified)","sample file 03",10,2,2,0,0,0,2,4,0,"0",0,0
+"Chinese (Simplified)","Chinese (Simplified) Total",407,22,209,10,31,3,29,77,26,"0.00",0,0
+"French (France)","sample file 04",183,10,53,68,17,3,12,20,0,"0",0,0
+"French (France)","sample file 05",214,10,34,4,14,0,23,41,88,"0",0,0
+"French (France)","sample file 06",10,2,2,0,0,0,2,4,0,"0",0,0
+"French (France)","French (France) Total",407,22,89,72,31,3,37,65,88,"0.00",0,0
+"German (Germany)","sample file 07",183,10,53,68,17,3,12,20,0,"0",0,0
+"German (Germany)","sample file 08",214,10,34,4,14,0,15,49,88,"0",0,0
+"German (Germany)","sample file 09",10,2,2,0,0,0,2,4,0,"0",0,0
+"German (Germany)","German (Germany) Total",407,22,89,72,31,3,29,73,88,"0.00",0,0
+"Italian (Italy)","sample file 10",183,10,6,1,0,0,106,60,0,"0",0,0
+"Italian (Italy)","sample file 11",214,10,11,4,0,0,26,52,111,"0",0,0
+"Italian (Italy)","sample file 12",10,2,2,0,0,0,2,4,0,"0",0,0
+"Italian (Italy)","Italian (Italy) Total",407,22,19,5,0,0,134,116,111,"0.00",0,0
+"Spanish (Spain - International Sort)","sample file 13",183,10,9,1,0,0,88,75,0,"0",0,0
+"Spanish (Spain - International Sort)","sample file 14",214,10,14,4,0,0,8,70,108,"0",0,0
+"Spanish (Spain - International Sort)","sample file 15",10,0,3,0,0,0,2,5,0,"0",0,0
+"Spanish (Spain - International Sort)","Spanish (Spain - International Sort) Total",407,20,26,5,0,0,98,150,108,"0.00",0,0
+"","Grand Total",2035,108,432,164,93,9,327,481,421,"0.00",0,0

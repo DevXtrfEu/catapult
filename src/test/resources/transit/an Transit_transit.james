@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transitstat type="import">
+<projectname>SAI_385_LNG</projectname>
+<sourcelanguage>English (UK)</sourcelanguage>
+<targetlanguage>Polish</targetlanguage>
+<statunit>Words</statunit>
+<countedunits>All</countedunits>
+<baselanguage>Source language</baselanguage>
+<internalrep>Off</internalrep>
+<repetitionlimit>3</repetitionlimit>
+<calcfact>1.00</calcfact>
+<files>
+
+<statfile>
+	<name>86115Rev01_E</name>
+	<repetitions>0</repetitions>
+	<pretranslated>89</pretranslated>
+	<pretranslated-ctxtpara>0</pretranslated-ctxtpara>
+	<pretranslated-ctxtstrct>0</pretranslated-ctxtstrct>
+	<parttranslated>16</parttranslated>
+	<fuzzy100>90</fuzzy100>
+	<fuzzy>
+	<fuzzyhi>99</fuzzyhi>
+	<fuzzylow>95</fuzzylow>
+	<value>18</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>94</fuzzyhi>
+	<fuzzylow>85</fuzzylow>
+	<value>13</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>84</fuzzyhi>
+	<fuzzylow>75</fuzzylow>
+	<value>31</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>74</fuzzyhi>
+	<fuzzylow>50</fuzzylow>
+	<value>27</value>
+	</fuzzy>
+	<not-translated-delta>0</not-translated-delta>
+	<not-translated>1049</not-translated>
+	<total>1333</total>
+</statfile>
+
+</files>
+<stattotal>
+	<repetitions>0</repetitions>
+	<pretranslated>89</pretranslated>
+	<pretranslated-ctxtpara>0</pretranslated-ctxtpara>
+	<pretranslated-ctxtstrct>0</pretranslated-ctxtstrct>
+	<parttranslated>16</parttranslated>
+	<fuzzy100>90</fuzzy100>
+	<fuzzy>
+	<fuzzyhi>99</fuzzyhi>
+	<fuzzylow>95</fuzzylow>
+	<value>18</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>94</fuzzyhi>
+	<fuzzylow>85</fuzzylow>
+	<value>13</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>84</fuzzyhi>
+	<fuzzylow>75</fuzzylow>
+	<value>31</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>74</fuzzyhi>
+	<fuzzylow>50</fuzzylow>
+	<value>27</value>
+	</fuzzy>
+	<not-translated-delta>0</not-translated-delta>
+	<not-translated>1049</not-translated>
+	<total>1333</total>
+</stattotal>
+<repetitions>
+	<repetitions>0</repetitions>
+	<pretranslated>0</pretranslated>
+	<pretranslated-ctxtpara>0</pretranslated-ctxtpara>
+	<pretranslated-ctxtstrct>0</pretranslated-ctxtstrct>
+	<parttranslated>0</parttranslated>
+	<fuzzy100>0</fuzzy100>
+	<fuzzy>
+	<fuzzyhi>99</fuzzyhi>
+	<fuzzylow>95</fuzzylow>
+	<value>0</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>94</fuzzyhi>
+	<fuzzylow>85</fuzzylow>
+	<value>0</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>84</fuzzyhi>
+	<fuzzylow>75</fuzzylow>
+	<value>0</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>74</fuzzyhi>
+	<fuzzylow>50</fuzzylow>
+	<value>0</value>
+	</fuzzy>
+	<not-translated-delta>0</not-translated-delta>
+	<not-translated>0</not-translated>
+	<total>0</total>
+</repetitions>
+<totrep>
+	<repetitions>0</repetitions>
+	<pretranslated>89</pretranslated>
+	<pretranslated-ctxtpara>0</pretranslated-ctxtpara>
+	<pretranslated-ctxtstrct>0</pretranslated-ctxtstrct>
+	<parttranslated>16</parttranslated>
+	<fuzzy100>90</fuzzy100>
+	<fuzzy>
+	<fuzzyhi>99</fuzzyhi>
+	<fuzzylow>95</fuzzylow>
+	<value>18</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>94</fuzzyhi>
+	<fuzzylow>85</fuzzylow>
+	<value>13</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>84</fuzzyhi>
+	<fuzzylow>75</fuzzylow>
+	<value>31</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>74</fuzzyhi>
+	<fuzzylow>50</fuzzylow>
+	<value>27</value>
+	</fuzzy>
+	<not-translated-delta>0</not-translated-delta>
+	<not-translated>1049</not-translated>
+	<total>1333</total>
+</totrep>
+<totweight>
+	<repetitions>0</repetitions>
+	<pretranslated>89</pretranslated>
+	<pretranslated-ctxtpara>0</pretranslated-ctxtpara>
+	<pretranslated-ctxtstrct>0</pretranslated-ctxtstrct>
+	<parttranslated>16</parttranslated>
+	<fuzzy100>90</fuzzy100>
+	<fuzzy>
+	<fuzzyhi>99</fuzzyhi>
+	<fuzzylow>95</fuzzylow>
+	<value>18</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>94</fuzzyhi>
+	<fuzzylow>85</fuzzylow>
+	<value>13</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>84</fuzzyhi>
+	<fuzzylow>75</fuzzylow>
+	<value>31</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>74</fuzzyhi>
+	<fuzzylow>50</fuzzylow>
+	<value>27</value>
+	</fuzzy>
+	<not-translated-delta>0</not-translated-delta>
+	<not-translated>1049</not-translated>
+	<total>1333</total>
+</totweight>
+<totcalc>
+	<repetitions>0</repetitions>
+	<pretranslated>89</pretranslated>
+	<pretranslated-ctxtpara>0</pretranslated-ctxtpara>
+	<pretranslated-ctxtstrct>0</pretranslated-ctxtstrct>
+	<parttranslated>16</parttranslated>
+	<fuzzy100>90</fuzzy100>
+	<fuzzy>
+	<fuzzyhi>99</fuzzyhi>
+	<fuzzylow>95</fuzzylow>
+	<value>18</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>94</fuzzyhi>
+	<fuzzylow>85</fuzzylow>
+	<value>13</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>84</fuzzyhi>
+	<fuzzylow>75</fuzzylow>
+	<value>31</value>
+	</fuzzy>
+	<fuzzy>
+	<fuzzyhi>74</fuzzyhi>
+	<fuzzylow>50</fuzzylow>
+	<value>27</value>
+	</fuzzy>
+	<not-translated-delta>0</not-translated-delta>
+	<not-translated>1049</not-translated>
+	<total>1333</total>
+</totcalc>
+</transitstat>

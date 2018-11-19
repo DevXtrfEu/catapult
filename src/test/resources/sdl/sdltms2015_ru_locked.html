@@ -1,0 +1,456 @@
+﻿<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:XmlReporting="urn:XmlReporting">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8"><LINK href="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio4\ReportResources\css\reports.css" type="text/css" rel="stylesheet"><script language="JavaScript">
+					
+						function OpenFile(guid)
+						{
+							if (window.external)
+							{
+								try
+								{
+									window.external.OpenFile(guid); 
+								}
+								catch (e)
+								{
+									document.getElementById(guid).click();
+								}
+							}
+							else
+							{
+								document.getElementById(guid).click();
+							}
+						}
+						
+						function Switch(fileguid, showhide)
+						{
+							if (showhide == "hide")
+							{
+								document.getElementById(fileguid + "_plus").style.display="";
+								document.getElementById(fileguid + "_minus").style.display="none";							
+								document.getElementById(fileguid + "_files").style.display="none";
+							}
+							else
+							{
+								document.getElementById(fileguid + "_plus").style.display="none";
+								document.getElementById(fileguid + "_minus").style.display="";							
+								document.getElementById(fileguid + "_files").style.display="";
+							}
+						}
+					
+						
+					</script></head>
+  <body>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="100%">
+          <h1>Отчет по результатам анализа файлов</h1>
+        </td>
+        <td valign="top"><img src="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio4\ReportResources\images/StudioPower.jpg&#xD;&#xA;								"></td>
+      </tr>
+    </table>
+    <h2 class="first">Краткие сведения</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Задача:</td>
+        <td class="InfoData">Проанализировать файлы</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Проект:</td>
+        <td class="InfoData">2015-612-1-SDL [EN-US]-[FR-FR] CAT</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Срок выполнения:</td>
+        <td class="InfoData">2015-06-24 17:00:00</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Источники переводов:</td>
+        <td class="InfoData">Default Translation Memory for EN-US TO FR-FR for Customer C000232.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem"></td>
+        <td class="InfoData">2015-612-1-SDL [EN-US]-[FR-FR] CAT_Default Translation Memory for EN-US TO FR-FR for Customer C000232.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Язык:</td>
+        <td class="InfoData">French (France)</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Файлы:</td>
+        <td class="InfoData">1</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Создано:</td>
+        <td class="InfoData">2015-07-23 13:10:00</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Продолжительность выполнения задачи:</td>
+        <td class="InfoData">3 seconds</td>
+      </tr>
+    </table>
+    <h2 class="first">Настройки</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Учитывать повторы между файлами:</td>
+        <td class="InfoData">Да</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Учитывать неточные совпадения между файлами:</td>
+        <td class="InfoData">Да</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Учитывать заблокированные сегменты как отдельную категорию в отчете: </td>
+        <td class="InfoData">Да</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Минимальный процент совпадения:</td>
+        <td class="InfoData">70%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Режим поиска:</td>
+        <td class="InfoData">Использовать лучшие совпадения из всех источников перевода.</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Штраф за отсутствие форматирования:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Штраф за отличие форматирования:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Штраф за наличие нескольких вариантов перевода:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Штраф за автоматическую локализацию:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Штраф за замену текста:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+    </table>
+    <h2>Всего</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Итого</th>
+        <th class="TypeHead">Тип</th>
+        <th class="Unit">Сегменты</th>
+        <th class="Unit">Слова</th>
+        <th class="Unit">Символы</th>
+        <th class="Unit">Процент</th>
+        <th class="Unit">Распознаваемые элементы</th>
+        <th class="Unit">Теги</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Файлы:1</th>
+        <th class="Header">Заблокировано </th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="16" align="left" valign="top">Симв./слово:3.00</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Контекстное совпадение</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <th class="Header">Повторы</th>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.00%</td>
+      <td>0</td>
+      <td>0</td>
+      <tr>
+        <th class="Header">Повторы между файлами</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">Внутренний:</th>
+        <td class="WithLineAbove" colspan="6"></td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">75% - 84%</th>
+        <td>1</td>
+        <td>3</td>
+        <td>8</td>
+        <td>25.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">Создать</th>
+        <td class="WithLineAbove">3</td>
+        <td class="WithLineAbove">9</td>
+        <td class="WithLineAbove">28</td>
+        <td class="WithLineAbove">75.00%</td>
+        <td class="WithLineAbove">0</td>
+        <td class="WithLineAbove">0</td>
+      </tr>
+      <tr>
+        <th class="Total">Итого</th>
+        <td class="Total">4</td>
+        <td class="Total">12</td>
+        <td class="Total">36</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+    <h2>Сведения о файле</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Файл</th>
+        <th class="TypeHead">Тип</th>
+        <th class="Unit">Сегменты</th>
+        <th class="Unit">Слова</th>
+        <th class="Unit">Символы</th>
+        <th class="Unit">Процент</th>
+        <th class="Unit">Распознаваемые элементы</th>
+        <th class="Unit">Теги</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">testy.txt.sdlxliff</th>
+        <th class="Header">Заблокировано </th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="16" align="left" valign="top">Симв./слово:3.00</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Контекстное совпадение</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <th class="Header">Повторы</th>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.00%</td>
+      <td>0</td>
+      <td>0</td>
+      <tr>
+        <th class="Header">Повторы между файлами</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">Внутренний:</th>
+        <td class="WithLineAbove" colspan="6"></td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">75% - 84%</th>
+        <td>1</td>
+        <td>3</td>
+        <td>8</td>
+        <td>25.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">Создать</th>
+        <td class="WithLineAbove">3</td>
+        <td class="WithLineAbove">9</td>
+        <td class="WithLineAbove">28</td>
+        <td class="WithLineAbove">75.00%</td>
+        <td class="WithLineAbove">0</td>
+        <td class="WithLineAbove">0</td>
+      </tr>
+      <tr>
+        <th class="Total">Итого</th>
+        <td class="Total">4</td>
+        <td class="Total">12</td>
+        <td class="Total">36</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+  </body>
+</html>

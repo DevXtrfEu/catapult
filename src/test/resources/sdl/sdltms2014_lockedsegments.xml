@@ -1,0 +1,53 @@
+<task name="analyse">
+    <taskInfo taskId="016a32ca-cc0c-4da2-bdd7-b1977304ca9a" runAt="14/08/2014 12:34:29" runTime="14 seconds">
+        <project name="DAT007-1513-P2014813-1 Wibo DE_ES-ES" number="265399f2-58e1-4ef4-a517-62ad5d9142fd"
+                 dueDate="22/08/2014 0:00:00"/>
+        <language lcid="3082" name="Spanish (Spain, International Sort)"/>
+        <tm name="Wibo Ge-Sp_de-DE_es-ES.sdltm"/>
+        <tm name="DAT007-1513-P2014813-1 Wibo DE_ES-ES_Wibo Ge-Sp_de-DE_es-ES.sdltm"/>
+        <settings reportInternalFuzzyLeverage="yes" reportLockedSegments="yes" reportCrossFileRepetitions="yes"
+                  minimumMatchScore="70" searchMode="bestWins" missingFormattingPenalty="1"
+                  differentFormattingPenalty="1" multipleTranslationsPenalty="1" autoLocalizationPenalty="0"
+                  textReplacementPenalty="0"/>
+    </taskInfo>
+    <file name="20140805_GA SafeSense_Stand V 1.3_DE.docx.sdlxliff" guid="de8b55e0-6b37-4275-823a-052996099cbf">
+        <analyse>
+            <perfect segments="0" words="0" characters="0" placeables="0" tags="0"/>
+            <inContextExact segments="0" words="0" characters="0" placeables="0" tags="0"/>
+            <exact segments="83" words="333" characters="2030" placeables="98" tags="8"/>
+            <locked segments="94" words="426" characters="2541" placeables="89" tags="22"/>
+            <crossFileRepeated segments="0" words="0" characters="0" placeables="0" tags="0"/>
+            <repeated segments="63" words="177" characters="958" placeables="118" tags="58"/>
+            <total segments="640" words="4978" characters="31948" placeables="606" tags="238"/>
+            <new segments="303" words="2976" characters="19683" placeables="135" tags="90"/>
+            <fuzzy min="50" max="74" segments="3" words="23" characters="146" placeables="8" tags="6"/>
+            <fuzzy min="75" max="84" segments="16" words="146" characters="736" placeables="58" tags="16"/>
+            <fuzzy min="85" max="94" segments="21" words="361" characters="2415" placeables="18" tags="10"/>
+            <fuzzy min="95" max="99" segments="35" words="303" characters="2166" placeables="38" tags="14"/>
+            <internalFuzzy min="50" max="74" segments="3" words="27" characters="160" placeables="4" tags="2"/>
+            <internalFuzzy min="75" max="84" segments="3" words="37" characters="189" placeables="11" tags="6"/>
+            <internalFuzzy min="85" max="94" segments="13" words="101" characters="593" placeables="16" tags="6"/>
+            <internalFuzzy min="95" max="99" segments="3" words="68" characters="331" placeables="13" tags="0"/>
+        </analyse>
+    </file>
+    <batchTotal>
+        <analyse>
+            <perfect segments="0" words="0" characters="0" placeables="0" tags="0"/>
+            <inContextExact segments="0" words="0" characters="0" placeables="0" tags="0"/>
+            <exact segments="83" words="333" characters="2030" placeables="98" tags="8"/>
+            <locked segments="94" words="426" characters="2541" placeables="89" tags="22"/>
+            <crossFileRepeated segments="0" words="0" characters="0" placeables="0" tags="0"/>
+            <repeated segments="63" words="177" characters="958" placeables="118" tags="58"/>
+            <total segments="640" words="4978" characters="31948" placeables="606" tags="238"/>
+            <new segments="303" words="2976" characters="19683" placeables="135" tags="90"/>
+            <fuzzy min="50" max="74" segments="3" words="23" characters="146" placeables="8" tags="6"/>
+            <fuzzy min="75" max="84" segments="16" words="146" characters="736" placeables="58" tags="16"/>
+            <fuzzy min="85" max="94" segments="21" words="361" characters="2415" placeables="18" tags="10"/>
+            <fuzzy min="95" max="99" segments="35" words="303" characters="2166" placeables="38" tags="14"/>
+            <internalFuzzy min="50" max="74" segments="3" words="27" characters="160" placeables="4" tags="2"/>
+            <internalFuzzy min="75" max="84" segments="3" words="37" characters="189" placeables="11" tags="6"/>
+            <internalFuzzy min="85" max="94" segments="13" words="101" characters="593" placeables="16" tags="6"/>
+            <internalFuzzy min="95" max="99" segments="3" words="68" characters="331" placeables="13" tags="0"/>
+        </analyse>
+    </batchTotal>
+</task>

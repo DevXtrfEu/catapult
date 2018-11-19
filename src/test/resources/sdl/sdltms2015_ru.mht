@@ -1,0 +1,799 @@
+﻿thread-index: AdDAjNu1cyRXgTb6RcK71sBm/RtZEQ==
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0000_01D0C09D.9F40FFE0"
+Content-Location: file://C:\Users\eutecert\AppData\Local\Temp\temp871201743.html
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.3.9600.17905
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01D0C09D.9F40FFE0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+﻿<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:XmlReporting="urn:XmlReporting">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8"><LINK href="cid:000101d0c08c$dbb84191$_CDOSYS2.0" type="text/css" rel="stylesheet"><script language="JavaScript">
+					
+						function OpenFile(guid)
+						{
+							if (window.external)
+							{
+								try
+								{
+									window.external.OpenFile(guid); 
+								}
+								catch (e)
+								{
+									document.getElementById(guid).click();
+								}
+							}
+							else
+							{
+								document.getElementById(guid).click();
+							}
+						}
+						
+						function Switch(fileguid, showhide)
+						{
+							if (showhide == "hide")
+							{
+								document.getElementById(fileguid + "_plus").style.display="";
+								document.getElementById(fileguid + "_minus").style.display="none";							
+								document.getElementById(fileguid + "_files").style.display="none";
+							}
+							else
+							{
+								document.getElementById(fileguid + "_plus").style.display="none";
+								document.getElementById(fileguid + "_minus").style.display="";							
+								document.getElementById(fileguid + "_files").style.display="";
+							}
+						}
+					
+						
+					</script></head>
+  <body>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="100%">
+          <h1>Отчет по результатам анализа файлов</h1>
+        </td>
+        <td valign="top"><img src="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio4\ReportResources\images/StudioPower.jpg&#xD;&#xA;								"></td>
+      </tr>
+    </table>
+    <h2 class="first">Краткие сведения</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Задача:</td>
+        <td class="InfoData">Проанализировать файлы</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Проект:</td>
+        <td class="InfoData">2015-5-133-SDL [EN-US]-[PL] CAT</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Срок выполнения:</td>
+        <td class="InfoData">2016-01-01 17:00:00</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Источники переводов:</td>
+        <td class="InfoData">Default Translation Memory for EN-US TO PL for Customer C000002.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem"></td>
+        <td class="InfoData">2015-5-133-SDL [EN-US]-[PL] CAT_Default Translation Memory for EN-US TO PL for Customer C000002.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Язык:</td>
+        <td class="InfoData">Polish (Poland)</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Файлы:</td>
+        <td class="InfoData">1</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Создано:</td>
+        <td class="InfoData">2015-06-17 08:19:38</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Продолжительность выполнения задачи:</td>
+        <td class="InfoData">1 seconds</td>
+      </tr>
+    </table>
+    <h2 class="first">Настройки</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Учитывать повторы между файлами:</td>
+        <td class="InfoData">Да</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Учитывать неточные совпадения между файлами:</td>
+        <td class="InfoData">Нет</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Учитывать заблокированные сегменты как отдельную категорию в отчете: </td>
+        <td class="InfoData">Нет</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Минимальный процент совпадения:</td>
+        <td class="InfoData">70%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Режим поиска:</td>
+        <td class="InfoData">Использовать лучшие совпадения из всех источников перевода.</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Штраф за отсутствие форматирования:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Штраф за отличие форматирования:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Штраф за наличие нескольких вариантов перевода:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Штраф за автоматическую локализацию:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Штраф за замену текста:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+    </table>
+    <h2>Всего</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Итого</th>
+        <th class="TypeHead">Тип</th>
+        <th class="Unit">Сегменты</th>
+        <th class="Unit">Слова</th>
+        <th class="Unit">Символы</th>
+        <th class="Unit">Процент</th>
+        <th class="Unit">Распознаваемые элементы</th>
+        <th class="Unit">Теги</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Файлы:1</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="10" align="left" valign="top">Симв./слово:4.00</th>
+        <th class="Header">Контекстное совпадение</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Повторы</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Повторы между файлами</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Создать</th>
+        <td>1</td>
+        <td>3</td>
+        <td>12</td>
+        <td>100.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Total">Итого</th>
+        <td class="Total">1</td>
+        <td class="Total">3</td>
+        <td class="Total">12</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+    <h2>Сведения о файле</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Файл</th>
+        <th class="TypeHead">Тип</th>
+        <th class="Unit">Сегменты</th>
+        <th class="Unit">Слова</th>
+        <th class="Unit">Символы</th>
+        <th class="Unit">Процент</th>
+        <th class="Unit">Распознаваемые элементы</th>
+        <th class="Unit">Теги</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Article for translation.docx.sdlxliff</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="10" align="left" valign="top">Симв./слово:4.00</th>
+        <th class="Header">Контекстное совпадение</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Повторы</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Повторы между файлами</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Создать</th>
+        <td>1</td>
+        <td>3</td>
+        <td>12</td>
+        <td>100.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Total">Итого</th>
+        <td class="Total">1</td>
+        <td class="Total">3</td>
+        <td class="Total">12</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+  </body>
+</html>
+------=_NextPart_000_0000_01D0C09D.9F40FFE0
+Content-Type: text/css;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: 7bit
+Content-ID: <000101d0c08c$dbb84191$_CDOSYS2.0>
+Content-Disposition: inline
+
+.InfoTable
+{
+	border: none;
+	border-collapse: collapse; 
+	font-family:Segoe UI;
+	font-size:10pt;
+}
+
+.InfoHeader
+{
+	border-bottom: #cccccc 1px solid; 
+	border-right: #cccccc 1px solid;
+	color: #4086AA;
+	background-color: #eeeeee;
+	font-family:Segoe UI;
+	font-size:10pt;
+}
+
+.InfoItem
+{
+	font-weight:bold;
+	color: #4086AA;
+	font-family:Segoe UI;
+	font-size:10pt;
+}
+
+.InfoItemWithIndent
+{
+	font-weight:bold;
+	color: #4086AA;
+	font-family:Segoe UI;
+	font-size:10pt;
+	padding-left: 25px;
+}
+
+.InfoData
+{
+}
+
+.ConversionReportTable
+{
+	border: #999999 1px solid;
+	border-collapse: collapse; 
+	color: #4086AA;
+	font-family:Segoe UI;
+	font-size:10pt;
+}
+
+.ConversionReportTable td
+{
+	color: #4086AA;
+	text-align: left;
+}
+
+.ReportTable
+{
+	border: #999999 1px solid;
+	border-collapse: collapse; 
+	color: #4086AA;
+	font-family:Segoe UI;
+	font-size:10pt;
+}
+
+.ReportTable th 
+{
+	white-space: nowrap; 
+	text-align: left; 
+	background-color: #eeeeee; 
+	border-bottom: #cccccc 1px solid; 
+	font-size:8pt;
+	min-width: 50px;
+}
+
+.ReportTable tr {
+	white-space: nowrap; 
+	text-align: left; 
+	background-color: #ffffff; 
+	border-bottom: #cccccc 1px solid; 
+	font-size:8pt;    
+}
+
+.ReportTable tr:nth-child(even) { background: #f2f2f2; }
+.ReportTable tr:nth-child(odd)  { background: #fff; }
+
+.ReportTable td
+{
+	color: #4086AA;
+	text-align: right;
+}
+
+	.ReportTable td.File
+	{
+		color: #000000;
+		text-align: left;
+	}
+
+	.ReportTable td.MergedFile
+	{
+		border-top: #cccccc 1px solid;
+		border-right: #cccccc 1px solid;
+		color: #000000;
+		text-align: left;
+		font-weight: normal;
+		vertical-align:top;
+		white-space: normal;
+		word-break:break-all;
+		padding-left: 10%;
+		background-color: White;
+	}
+
+	.ReportTable td.Text
+	{
+		color: #4086AA;
+		text-align: left;
+        font-size: 8pt;
+	}
+
+	.ReportTable td.TextIndented
+	{
+		color: #4086AA;
+		text-align: left;
+		padding-left: 20px;
+        font-size: 8pt;
+	}
+	
+.TypeHead
+{
+	white-space: nowrap;
+	text-align: left;
+	background-color: #eeeeee;
+	border-bottom: #cccccc 1px solid; 
+}
+
+.File
+{
+	border-top: #cccccc 1px solid;
+	border-right: #cccccc 1px solid;
+	color: #000000;
+	text-align: left;
+	background-color: #eeeeee;
+	font-weight: normal;
+	vertical-align:top;
+	white-space: normal;
+	word-break:break-all;
+}
+
+.Number
+{
+	text-align:right;
+}
+
+.CharPerWord
+{
+	border-bottom: #cccccc 1px solid;
+	border-right: #cccccc 1px solid;
+	color: #000000;
+	font: normal italic 10pt;
+	white-space: nowrap;
+	text-align: left;
+	background-color: #eeeeee;
+}
+
+.Type
+{
+	border-left: #cccccc 1px solid; 
+}
+	
+.Unit
+{
+	border-bottom: #cccccc 1px solid; 
+	padding-left: 4px;
+	color: #4086AA;
+	white-space: nowrap;
+	text-align: left;
+	background-color: #eeeeee;
+	border-bottom: #cccccc 1px solid; 
+}
+
+.Header
+{
+	white-space: nowrap;
+	text-align: left;
+	background-color: #eeeeee;
+}
+
+.HeaderWithIndent
+{
+	white-space: nowrap;
+	text-align: left;
+	background-color: #eeeeee;
+	padding-left:0.5cm
+}
+
+.HeaderWithLineAbove
+{
+	white-space: nowrap;
+	text-align: left;
+	background-color: #eeeeee;
+	border-top: #cccccc 1px solid;
+}
+
+.WithLineAbove
+{
+	white-space: nowrap;
+	border-top: #cccccc 1px solid;
+}
+
+
+
+	
+.Total
+{
+	border-top: #cccccc 1px solid;
+	border-bottom: #cccccc 1px solid;
+	font-weight: bold;
+	white-space: nowrap;
+	text-align: left;
+	background-color: #eeeeee;
+}
+
+.Error
+{
+	color: red;
+}
+
+.MergedFile
+{
+	border-top: #cccccc 1px solid;
+	border-right: #cccccc 1px solid;
+	color: #000000;
+	text-align: left;
+	font-weight: normal;
+	vertical-align:top;
+	white-space: normal;
+	word-break:break-all;
+	padding-left: 10%;
+	background-color: White;
+}
+
+.MergedCharPerWord
+{
+	border-bottom: #cccccc 1px solid;
+	border-right: #cccccc 1px solid;
+	color: #000000;
+	font: normal italic 10pt;
+	white-space: nowrap;
+	text-align: left;
+	padding-left: 10%;
+	background-color: White;
+}
+
+.MergedHeader
+{
+	white-space: nowrap;
+	text-align: left;
+	background-color: White;
+}
+
+.MergedHeaderWithIndent
+{
+	white-space: nowrap;
+	text-align: left;
+	background-color: White;
+	padding-left:0.5cm
+}
+
+.MergedHeaderWithLineAbove
+{
+	white-space: nowrap;
+	text-align: left;
+	background-color: White;
+	border-top: #cccccc 1px solid;
+}
+	
+.MergedTotal
+{
+	border-top: #cccccc 1px solid;
+	border-bottom: #cccccc 1px solid;
+	font-weight: bold;
+	white-space: nowrap;
+	text-align: left;
+	background-color: White;
+}
+
+
+
+/*
+	Verification Reports
+*/
+.TitleTable
+{
+	border: #999999 1px solid;
+	border-collapse: collapse; 
+	font-size:14pt;
+	color: #333399;
+	background-color: #e2e2e2;
+}
+
+
+.TitleTable th
+{
+	text-align:left;
+	white-space: nowrap;
+}
+
+.VerificationReportTable
+{
+	border: #999999 1px solid;
+	border-collapse: collapse; 
+	color: #0000cc;
+	font-family:Segoe UI;
+	font-size:10pt;
+}
+
+.VerificationReportTable th
+{
+	white-space: nowrap;
+	text-align: left;
+	background-color: #eeeeee;
+	border-bottom: #cccccc 1px solid;
+	border-top: #cccccc 1px solid;
+	color: #4086AA;
+}
+
+.VerificationReportTable td
+{
+	border-bottom: #cccccc 1px solid;
+	border-top: #cccccc 1px solid;
+	color: #000000;
+}
+
+.VerificationReportTable a
+{
+	color: #4086AA;
+}
+
+.VerificationStatisticsTable
+{
+	border: #999999 1px solid;
+	border-collapse: collapse; 
+	font-family:Segoe UI;
+	font-size:10pt;
+}
+
+.VerificationStatisticsTable td
+{
+	border-bottom: #cccccc 1px solid;
+	border-top: #cccccc 1px solid;
+	border-right: #cccccc 1px solid;
+	margin-left: 2px;
+}
+
+
+h1
+{
+	font-family:Segoe UI;
+	font-size:14pt;
+	color: #4086AA;
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+
+h2.first
+{
+	font-family:Segoe UI;
+	font-size:12pt;
+	color: #4086AA;
+	padding-bottom:2px;
+	margin-bottom:2px;
+	padding-top:8px;
+	margin-top:8px;
+}
+
+h2
+{
+	font-family:Segoe UI;
+	font-size:12pt;
+	color: #4086AA;
+	padding-bottom:2px;
+	margin-bottom:2px;
+}
+
+.InfoList
+{
+	font-family:Segoe UI;
+	font-size:10pt;
+	padding-left:0px;
+	margin-left:0px;
+	padding-top:0px;
+	margin-top:0px;
+}
+
+.InfoListItem
+{
+	font-family:Segoe UI;
+	font-size:10pt;
+	padding-left:0px;
+	margin-left:0px;
+}
+
+
+.InfoMessage
+{
+	font-family:Segoe UI;
+	font-size:10pt;
+	padding-top:0px;
+	padding-left:0px;
+	margin-left:0px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+------=_NextPart_000_0000_01D0C09D.9F40FFE0--

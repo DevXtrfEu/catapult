@@ -1,0 +1,484 @@
+﻿<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:XmlReporting="urn:XmlReporting">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8"><LINK href="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio5\ReportResources\css\reports.css" type="text/css" rel="stylesheet"><script language="JavaScript">
+					
+						function OpenFile(guid)
+						{
+							if (window.external)
+							{
+								try
+								{
+									window.external.OpenFile(guid); 
+								}
+								catch (e)
+								{
+									document.getElementById(guid).click();
+								}
+							}
+							else
+							{
+								document.getElementById(guid).click();
+							}
+						}
+						
+						function Switch(fileguid, showhide)
+						{
+							if (showhide == "hide")
+							{
+								document.getElementById(fileguid + "_plus").style.display="";
+								document.getElementById(fileguid + "_minus").style.display="none";							
+								document.getElementById(fileguid + "_files").style.display="none";
+							}
+							else
+							{
+								document.getElementById(fileguid + "_plus").style.display="none";
+								document.getElementById(fileguid + "_minus").style.display="";							
+								document.getElementById(fileguid + "_files").style.display="";
+							}
+						}
+					
+						
+					</script></head>
+  <body>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="100%">
+          <h1>Analyze Files Report</h1>
+        </td>
+        <td valign="top"><img src="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio5\ReportResources\images/StudioPower.jpg&#xD;&#xA;                "></td>
+      </tr>
+    </table>
+    <h2 class="first">Summary</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Task:</td>
+        <td class="InfoData">Analyze Files</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Project:</td>
+        <td class="InfoData">2017-145-ZH-HK _ EN-US-1 [ZH-HK]-[EN-US] chinese trados analysis file</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Due Date:</td>
+        <td class="InfoData">8/7/2017 3:00:00 PM</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Translation Providers:</td>
+        <td class="InfoData">Default TM for ZH-HK to EN-US for C000958 _ xtrf60.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem"></td>
+        <td class="InfoData">2017-145-ZH-HK _ EN-US-1 [ZH-HK]-[EN-US] chinese trados analysis file_Default TM for ZH-HK to EN-US for C000958 _ xtrf60.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Language:</td>
+        <td class="InfoData">English (United States)</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Files:</td>
+        <td class="InfoData">1</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Created At:</td>
+        <td class="InfoData">8/4/2017 9:18:12 AM</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Task Duration:</td>
+        <td class="InfoData">32 seconds</td>
+      </tr>
+    </table>
+    <h2 class="first">Settings</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Report Cross-file Repetitions:</td>
+        <td class="InfoData InfoDataMinColWidth">Yes</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Report Internal Fuzzy Match Leverage:</td>
+        <td class="InfoData">No</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Report Locked Segments Separately: </td>
+        <td class="InfoData">No</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Minimum Match Value:</td>
+        <td class="InfoData">70%</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Search Mode:</td>
+        <td colspan="2" class="InfoData">Use best matches from all translation sources.</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Missing Formatting Penalty:</td>
+        <td class="InfoData">1%</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Different Formatting Penalty:</td>
+        <td class="InfoData">1%</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Multiple Translations Penalty:</td>
+        <td class="InfoData">1%</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Auto-localization Penalty:</td>
+        <td class="InfoData">0%</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Text Replacement Penalty:</td>
+        <td class="InfoData">0%</td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem"> </td>
+        <td class="InfoData"> </td>
+        <td class="InfoData"> </td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Segment Fragment Matching Options</td>
+        <td class="InfoData">Whole TU</td>
+        <td class="InfoData">TU fragment</td>
+      </tr>
+      <tr>
+        <td class="InfoItemWithIndent">Minimum words for a match:</td>
+        <td class="InfoData">2</td>
+        <td class="InfoData">n/a</td>
+      </tr>
+      <tr>
+        <td class="InfoItemWithIndent">Minimum significant words in a match:</td>
+        <td class="InfoData">2</td>
+        <td class="InfoData">n/a</td>
+      </tr>
+    </table>
+    <h2>Totals</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Total</th>
+        <th class="TypeHead">Type</th>
+        <th class="Unit">Segments</th>
+        <th class="Unit">Characters</th>
+        <th class="Unit">Percent</th>
+        <th class="Unit UnitWrap">Recognized Tokens</th>
+        <th class="Unit">Fragment words<br>(whole TU)</th>
+        <th class="Unit">Fragment words<br>(TU fragment)</th>
+        <th class="Unit UnitWrap">AdaptiveMT Impact</th>
+        <th class="Unit">Tags</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Files:1</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="12" align="left" valign="top"></th>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Repetitions</th>
+        <td>1440</td>
+        <td>37530</td>
+        <td>98.90%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Cross-file Repetitions</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">New/AT</th>
+        <td>16</td>
+        <td>417</td>
+        <td>1.10%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">AdaptiveMT Baseline</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">AdaptiveMT with Learnings</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">1456</td>
+        <td class="Total">37947</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+        <td class="Total">0.00%</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+    <h2>File Details</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">File</th>
+        <th class="TypeHead">Type</th>
+        <th class="Unit">Segments</th>
+        <th class="Unit">Characters</th>
+        <th class="Unit">Percent</th>
+        <th class="Unit UnitWrap">Recognized Tokens</th>
+        <th class="Unit">Fragment words<br>(whole TU)</th>
+        <th class="Unit">Fragment words<br>(TU fragment)</th>
+        <th class="Unit UnitWrap">AdaptiveMT Impact</th>
+        <th class="Unit">Tags</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">chinese_file.txt.sdlxliff</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="12" align="left" valign="top"></th>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Repetitions</th>
+        <td>1440</td>
+        <td>37530</td>
+        <td>98.90%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Cross-file Repetitions</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">New/AT</th>
+        <td>16</td>
+        <td>417</td>
+        <td>1.10%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">AdaptiveMT Baseline</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td></td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">AdaptiveMT with Learnings</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">1456</td>
+        <td class="Total">37947</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+        <td class="Total">0.00%</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+  </body>
+</html>

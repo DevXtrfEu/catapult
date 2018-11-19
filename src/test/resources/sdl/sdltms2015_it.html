@@ -1,0 +1,362 @@
+﻿<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:XmlReporting="urn:XmlReporting">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8"><LINK href="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio4\ReportResources\css\reports.css" type="text/css" rel="stylesheet"><script language="JavaScript">
+					
+						function OpenFile(guid)
+						{
+							if (window.external)
+							{
+								try
+								{
+									window.external.OpenFile(guid); 
+								}
+								catch (e)
+								{
+									document.getElementById(guid).click();
+								}
+							}
+							else
+							{
+								document.getElementById(guid).click();
+							}
+						}
+						
+						function Switch(fileguid, showhide)
+						{
+							if (showhide == "hide")
+							{
+								document.getElementById(fileguid + "_plus").style.display="";
+								document.getElementById(fileguid + "_minus").style.display="none";							
+								document.getElementById(fileguid + "_files").style.display="none";
+							}
+							else
+							{
+								document.getElementById(fileguid + "_plus").style.display="none";
+								document.getElementById(fileguid + "_minus").style.display="";							
+								document.getElementById(fileguid + "_files").style.display="";
+							}
+						}
+					
+						
+					</script></head>
+  <body>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="100%">
+          <h1>Report di analisi dei file</h1>
+        </td>
+        <td valign="top"><img src="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio4\ReportResources\images/StudioPower.jpg&#xD;&#xA;								"></td>
+      </tr>
+    </table>
+    <h2 class="first">Riepilogo</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Attività:</td>
+        <td class="InfoData">Analizza file</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Progetto:</td>
+        <td class="InfoData">2015-5-133-SDL [EN-US]-[PL] CAT</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Data di scadenza:</td>
+        <td class="InfoData">2016-01-01 17:00:00</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Provider di traduzione:</td>
+        <td class="InfoData">Default Translation Memory for EN-US TO PL for Customer C000002.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem"></td>
+        <td class="InfoData">2015-5-133-SDL [EN-US]-[PL] CAT_Default Translation Memory for EN-US TO PL for Customer C000002.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Lingua:</td>
+        <td class="InfoData">Polish (Poland)</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">File:</td>
+        <td class="InfoData">1</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Creazione:</td>
+        <td class="InfoData">2015-06-17 08:19:38</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Durata attività:</td>
+        <td class="InfoData">1 seconds</td>
+      </tr>
+    </table>
+    <h2 class="first">Impostazioni</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Includi ripetizioni nei file:</td>
+        <td class="InfoData">Sì</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Includi leverage dei fuzzy match interni:</td>
+        <td class="InfoData">No</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Riporta separatamente segmenti bloccati: </td>
+        <td class="InfoData">No</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Valore di corrispondenza minimo:</td>
+        <td class="InfoData">70%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Modalità di ricerca:</td>
+        <td class="InfoData">Usa le corrispondenze più alte di tutte le origini di traduzione.</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalità per mancata formattazione:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalità per formattazione diversa:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalità per traduzioni multiple:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalità per localizzazione automatica:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalità per sostituzione testo:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+    </table>
+    <h2>Totali</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Totale</th>
+        <th class="TypeHead">Tipo</th>
+        <th class="Unit">Segmenti</th>
+        <th class="Unit">Parole</th>
+        <th class="Unit">Caratteri</th>
+        <th class="Unit">Percentuale</th>
+        <th class="Unit">Token riconosciuti</th>
+        <th class="Unit">Tag</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">File:1</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="10" align="left" valign="top">Caratteri/parola:4.00</th>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Ripetizioni</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Ripetizioni nei file</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Nuovo</th>
+        <td>1</td>
+        <td>3</td>
+        <td>12</td>
+        <td>100.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Total">Totale</th>
+        <td class="Total">1</td>
+        <td class="Total">3</td>
+        <td class="Total">12</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+    <h2>Dettagli file</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">File</th>
+        <th class="TypeHead">Tipo</th>
+        <th class="Unit">Segmenti</th>
+        <th class="Unit">Parole</th>
+        <th class="Unit">Caratteri</th>
+        <th class="Unit">Percentuale</th>
+        <th class="Unit">Token riconosciuti</th>
+        <th class="Unit">Tag</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Article for translation.docx.sdlxliff</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="10" align="left" valign="top">Caratteri/parola:4.00</th>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Ripetizioni</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Ripetizioni nei file</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Nuovo</th>
+        <td>1</td>
+        <td>3</td>
+        <td>12</td>
+        <td>100.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Total">Totale</th>
+        <td class="Total">1</td>
+        <td class="Total">3</td>
+        <td class="Total">12</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+  </body>
+</html>

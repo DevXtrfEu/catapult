@@ -1,0 +1,77 @@
+Project;4397;Target language;All;Date;12-09-2014 09:23;
+Initial;Segments;Words;Word %;Characters;Characters %;Characters excluding spaces
+Total count;105;536;100;3407;100;2982
+Non-translatable;0;0;0;0;0;0
+Translation memory matching;;;;;;
+ICE match;18;29;5;153;4;145
+Leveraged match;50;109;20;713;21;659
+95-99% Fuzzy match;9;134;25;873;26;752
+85-94% Fuzzy match;4;32;6;190;6;163
+75-84% Fuzzy match;5;29;5;205;6;180
+Machine translation;0;0;0;0;0;0
+Internal matching;;;;;;
+Repeat;0;0;0;0;0;0
+95-99% Fuzzy repeat;0;0;0;0;0;0
+85-94% Fuzzy repeat;0;0;0;0;0;0
+75-84% Fuzzy repeat;2;8;1;67;2;61
+No matching;17;195;36;1206;35;1022
+Progress - translate1;;;;;;
+Done;18;29;5;153;4;145
+To be done;87;507;95;3254;96;2837
+To be corrected;0;0;0;0;0;0
+Progress - correct1;;;;;;
+Done;18;29;5;153;4;145
+To be done;87;507;95;3254;96;2837
+To be corrected;0;0;0;0;0;0
+;;;;;;
+File;SVPD000050376.doc;Target language;Polish;Date;12-09-2014 09:23;
+Initial;Segments;Words;Word %;Characters;Characters %;Characters excluding spaces
+Total count;105;536;100;3407;100;2982
+Non-translatable;0;0;0;0;0;0
+Translation memory matching;;;;;;
+ICE match;18;29;5;153;4;145
+Leveraged match;50;109;20;713;21;659
+95-99% Fuzzy match;9;134;25;873;26;752
+85-94% Fuzzy match;4;32;6;190;6;163
+75-84% Fuzzy match;5;29;5;205;6;180
+Machine translation;0;0;0;0;0;0
+Internal matching;;;;;;
+Repeat;0;0;0;0;0;0
+95-99% Fuzzy repeat;0;0;0;0;0;0
+85-94% Fuzzy repeat;0;0;0;0;0;0
+75-84% Fuzzy repeat;2;8;1;67;2;61
+No matching;17;195;36;1206;35;1022
+Progress - translate1;;;;;;
+Done;18;29;5;153;4;145
+To be done;87;507;95;3254;96;2837
+To be corrected;0;0;0;0;0;0
+Progress - correct1;;;;;;
+Done;18;29;5;153;4;145
+To be done;87;507;95;3254;96;2837
+To be corrected;0;0;0;0;0;0
+;;;;;;
+File;All;Target language;Polish;Date;12-09-2014 09:23;
+Initial;Segments;Words;Word %;Characters;Characters %;Characters excluding spaces
+Total count;105;536;100;3407;100;2982
+Non-translatable;0;0;0;0;0;0
+Translation memory matching;;;;;;
+ICE match;18;29;5;153;4;145
+Leveraged match;50;109;20;713;21;659
+95-99% Fuzzy match;9;134;25;873;26;752
+85-94% Fuzzy match;4;32;6;190;6;163
+75-84% Fuzzy match;5;29;5;205;6;180
+Machine translation;0;0;0;0;0;0
+Internal matching;;;;;;
+Repeat;0;0;0;0;0;0
+95-99% Fuzzy repeat;0;0;0;0;0;0
+85-94% Fuzzy repeat;0;0;0;0;0;0
+75-84% Fuzzy repeat;2;8;1;67;2;61
+No matching;17;195;36;1206;35;1022
+Progress - translate1;;;;;;
+Done;18;29;5;153;4;145
+To be done;87;507;95;3254;96;2837
+To be corrected;0;0;0;0;0;0
+Progress - correct1;;;;;;
+Done;18;29;5;153;4;145
+To be done;87;507;95;3254;96;2837
+To be corrected;0;0;0;0;0;0

@@ -1,0 +1,170 @@
+<task name="analyse">
+	<taskInfo
+		taskId="ee2c500b-45eb-4865-88a9-939edb2f2277"
+		runAt="6/29/2011 11:02:29 AM"
+		runTime="1 Minuten, 48 Sekunden">
+		<project
+			name="Mamba_HelpHO2_FRA"
+			number="00669033-6d66-4fda-9c33-9e7cee81bae9" />
+		<language
+			lcid="1036"
+			name="French (France)" />
+		<tm name="R2XXX_TM_FRA.sdltm" />
+		<settings
+			reportInternalFuzzyLeverage="no"
+			reportCrossFileRepetitions="yes"
+			minimumMatchScore="70"
+			searchMode="bestWins"
+			missingFormattingPenalty="1"
+			differentFormattingPenalty="1"
+			multipleTranslationsPenalty="1"
+			autoLocalizationPenalty="0"
+			textReplacementPenalty="0" />
+	</taskInfo>
+	<file
+		name="R2xxx_Mamba_HelpHO2_FRA.xml"
+		guid="f145a4bc-1a3f-4df5-bee0-ce914cdcb05b">
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="786"
+				words="5494"
+				characters="30923"
+				placeables="350"
+				tags="141" />
+			<exact
+				segments="374"
+				words="1660"
+				characters="10225"
+				placeables="103"
+				tags="42" />
+			<repeated
+				segments="97"
+				words="636"
+				characters="3674"
+				placeables="78"
+				tags="51" />
+			<total
+				segments="2444"
+				words="19476"
+				characters="109676"
+				placeables="2108"
+				tags="1427" />
+			<new
+				segments="832"
+				words="7726"
+				characters="42385"
+				placeables="770"
+				tags="530" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="20"
+				words="214"
+				characters="1170"
+				placeables="61"
+				tags="50" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="55"
+				words="425"
+				characters="2379"
+				placeables="100"
+				tags="82" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="109"
+				words="1241"
+				characters="7185"
+				placeables="445"
+				tags="398" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="171"
+				words="2080"
+				characters="11735"
+				placeables="201"
+				tags="133" />
+		</analyse>
+	</file>
+	<batchTotal>
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="786"
+				words="5494"
+				characters="30923"
+				placeables="350"
+				tags="141" />
+			<exact
+				segments="374"
+				words="1660"
+				characters="10225"
+				placeables="103"
+				tags="42" />
+			<repeated
+				segments="97"
+				words="636"
+				characters="3674"
+				placeables="78"
+				tags="51" />
+			<total
+				segments="2444"
+				words="19476"
+				characters="109676"
+				placeables="2108"
+				tags="1427" />
+			<new
+				segments="832"
+				words="7726"
+				characters="42385"
+				placeables="770"
+				tags="530" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="20"
+				words="214"
+				characters="1170"
+				placeables="61"
+				tags="50" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="55"
+				words="425"
+				characters="2379"
+				placeables="100"
+				tags="82" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="109"
+				words="1241"
+				characters="7185"
+				placeables="445"
+				tags="398" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="171"
+				words="2080"
+				characters="11735"
+				placeables="201"
+				tags="133" />
+		</analyse>
+	</batchTotal>
+</task>

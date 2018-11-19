@@ -1,0 +1,456 @@
+﻿<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:XmlReporting="urn:XmlReporting">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8"><LINK href="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio4\ReportResources\css\reports.css" type="text/css" rel="stylesheet"><script language="JavaScript">
+					
+						function OpenFile(guid)
+						{
+							if (window.external)
+							{
+								try
+								{
+									window.external.OpenFile(guid); 
+								}
+								catch (e)
+								{
+									document.getElementById(guid).click();
+								}
+							}
+							else
+							{
+								document.getElementById(guid).click();
+							}
+						}
+						
+						function Switch(fileguid, showhide)
+						{
+							if (showhide == "hide")
+							{
+								document.getElementById(fileguid + "_plus").style.display="";
+								document.getElementById(fileguid + "_minus").style.display="none";							
+								document.getElementById(fileguid + "_files").style.display="none";
+							}
+							else
+							{
+								document.getElementById(fileguid + "_plus").style.display="none";
+								document.getElementById(fileguid + "_minus").style.display="";							
+								document.getElementById(fileguid + "_files").style.display="";
+							}
+						}
+					
+						
+					</script></head>
+  <body>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="100%">
+          <h1>Report di analisi dei file</h1>
+        </td>
+        <td valign="top"><img src="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio4\ReportResources\images/StudioPower.jpg&#xD;&#xA;								"></td>
+      </tr>
+    </table>
+    <h2 class="first">Riepilogo</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Attività:</td>
+        <td class="InfoData">Analizza file</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Progetto:</td>
+        <td class="InfoData">2015-612-1-SDL [EN-US]-[FR-FR] CAT</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Data di scadenza:</td>
+        <td class="InfoData">2015-06-24 17:00:00</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Provider di traduzione:</td>
+        <td class="InfoData">Default Translation Memory for EN-US TO FR-FR for Customer C000232.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem"></td>
+        <td class="InfoData">2015-612-1-SDL [EN-US]-[FR-FR] CAT_Default Translation Memory for EN-US TO FR-FR for Customer C000232.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Lingua:</td>
+        <td class="InfoData">French (France)</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">File:</td>
+        <td class="InfoData">1</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Creazione:</td>
+        <td class="InfoData">2015-07-23 13:10:00</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Durata attività:</td>
+        <td class="InfoData">3 seconds</td>
+      </tr>
+    </table>
+    <h2 class="first">Impostazioni</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Includi ripetizioni nei file:</td>
+        <td class="InfoData">Sì</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Includi leverage dei fuzzy match interni:</td>
+        <td class="InfoData">Sì</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Riporta separatamente segmenti bloccati: </td>
+        <td class="InfoData">Sì</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Valore di corrispondenza minimo:</td>
+        <td class="InfoData">70%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Modalità di ricerca:</td>
+        <td class="InfoData">Usa le corrispondenze più alte di tutte le origini di traduzione.</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalità per mancata formattazione:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalità per formattazione diversa:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalità per traduzioni multiple:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalità per localizzazione automatica:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalità per sostituzione testo:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+    </table>
+    <h2>Totali</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Totale</th>
+        <th class="TypeHead">Tipo</th>
+        <th class="Unit">Segmenti</th>
+        <th class="Unit">Parole</th>
+        <th class="Unit">Caratteri</th>
+        <th class="Unit">Percentuale</th>
+        <th class="Unit">Token riconosciuti</th>
+        <th class="Unit">Tag</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">File:1</th>
+        <th class="Header">Bloccati </th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="16" align="left" valign="top">Caratteri/parola:3.00</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <th class="Header">Ripetizioni</th>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.00%</td>
+      <td>0</td>
+      <td>0</td>
+      <tr>
+        <th class="Header">Ripetizioni nei file</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">Interno:</th>
+        <td class="WithLineAbove" colspan="6"></td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">75% - 84%</th>
+        <td>1</td>
+        <td>3</td>
+        <td>8</td>
+        <td>25.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">Nuovo</th>
+        <td class="WithLineAbove">3</td>
+        <td class="WithLineAbove">9</td>
+        <td class="WithLineAbove">28</td>
+        <td class="WithLineAbove">75.00%</td>
+        <td class="WithLineAbove">0</td>
+        <td class="WithLineAbove">0</td>
+      </tr>
+      <tr>
+        <th class="Total">Totale</th>
+        <td class="Total">4</td>
+        <td class="Total">12</td>
+        <td class="Total">36</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+    <h2>Dettagli file</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">File</th>
+        <th class="TypeHead">Tipo</th>
+        <th class="Unit">Segmenti</th>
+        <th class="Unit">Parole</th>
+        <th class="Unit">Caratteri</th>
+        <th class="Unit">Percentuale</th>
+        <th class="Unit">Token riconosciuti</th>
+        <th class="Unit">Tag</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">testy.txt.sdlxliff</th>
+        <th class="Header">Bloccati </th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="16" align="left" valign="top">Caratteri/parola:3.00</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <th class="Header">Ripetizioni</th>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.00%</td>
+      <td>0</td>
+      <td>0</td>
+      <tr>
+        <th class="Header">Ripetizioni nei file</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">Interno:</th>
+        <td class="WithLineAbove" colspan="6"></td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">75% - 84%</th>
+        <td>1</td>
+        <td>3</td>
+        <td>8</td>
+        <td>25.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">Nuovo</th>
+        <td class="WithLineAbove">3</td>
+        <td class="WithLineAbove">9</td>
+        <td class="WithLineAbove">28</td>
+        <td class="WithLineAbove">75.00%</td>
+        <td class="WithLineAbove">0</td>
+        <td class="WithLineAbove">0</td>
+      </tr>
+      <tr>
+        <th class="Total">Totale</th>
+        <td class="Total">4</td>
+        <td class="Total">12</td>
+        <td class="Total">36</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+  </body>
+</html>

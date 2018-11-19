@@ -1,0 +1,136 @@
+
+File:               dobry plik.txt
+Date:               2018-06-18 02:34:14 UTC
+Project:            test MP 3
+Language direction: en > as
+
+Match Types       Segments        Words      Percent
+Translated               0            0            0
+Context Match            0            0            0
+Repetitions              0            0            0
+Format Change            0            0            0
+100%                     1            1        16.67
+95% - 99%                0            0            0
+85% - 94%                0            0            0
+75% - 84%                0            0            0
+50% - 74%                0            0            0
+No Match                 3            5        83.33
+Total                    4            6          100
+Chars/word            3.33
+
+
+Total:              1 files
+Date:               2018-06-18 02:34:14 UTC
+Project:            test MP 3
+Language direction: en > as
+
+Match Types       Segments        Words      Percent
+Translated               0            0            0
+Context Match            0            0            0
+Repetitions              0            0            0
+Format Change            0            0            0
+100%                     1            1        16.67
+95% - 99%                0            0            0
+85% - 94%                0            0            0
+75% - 84%                0            0            0
+50% - 74%                0            0            0
+No Match                 3            5        83.33
+Total                    4            6          100
+Chars/word            3.33
+
+File:               dobry plik.txt
+Date:               2018-06-18 02:34:14 UTC
+Project:            test MP 3
+Language direction: en > km
+
+Match Types       Segments        Words      Percent
+Translated               0            0            0
+Context Match            0            0            0
+Repetitions              0            0            0
+Format Change            0            0            0
+100%                     1            1        16.67
+95% - 99%                0            0            0
+85% - 94%                0            0            0
+75% - 84%                0            0            0
+50% - 74%                0            0            0
+No Match                 3            5        83.33
+Total                    4            6          100
+Chars/word            3.33
+
+
+Total:              1 files
+Date:               2018-06-18 02:34:14 UTC
+Project:            test MP 3
+Language direction: en > km
+
+Match Types       Segments        Words      Percent
+Translated               0            0            0
+Context Match            0            0            0
+Repetitions              0            0            0
+Format Change            0            0            0
+100%                     1            1        16.67
+95% - 99%                0            0            0
+85% - 94%                0            0            0
+75% - 84%                0            0            0
+50% - 74%                0            0            0
+No Match                 3            5        83.33
+Total                    4            6          100
+Chars/word            3.33
+
+File:               dobry plik.txt
+Date:               2018-06-18 02:34:14 UTC
+Project:            test MP 3
+Language direction: en > pl
+
+Match Types       Segments        Words      Percent
+Translated               0            0            0
+Context Match            0            0            0
+Repetitions              0            0            0
+Format Change            0            0            0
+100%                     1            1        16.67
+95% - 99%                1            1        16.67
+85% - 94%                0            0            0
+75% - 84%                0            0            0
+50% - 74%                0            0            0
+No Match                 2            4        66.67
+Total                    4            6          100
+Chars/word            3.33
+
+File:               bad file.txt
+Date:               2018-06-18 02:34:14 UTC
+Project:            test MP 3
+Language direction: en > pl
+
+Match Types       Segments        Words      Percent
+Translated               0            0            0
+Context Match            0            0            0
+Repetitions              0            0            0
+Format Change            0            0            0
+100%                     0            0            0
+95% - 99%                0            0            0
+85% - 94%                0            0            0
+75% - 84%                0            0            0
+50% - 74%                0            0            0
+No Match                 1            6          100
+Total                    1            6          100
+Chars/word            3.33
+
+
+Total:              2 files
+Date:               2018-06-18 02:34:14 UTC
+Project:            test MP 3
+Language direction: en > pl
+
+Match Types       Segments        Words      Percent
+Translated               0            0            0
+Context Match            0            0            0
+Repetitions              0            0            0
+Format Change            0            0            0
+100%                     1            1         8.33
+95% - 99%                1            1         8.33
+85% - 94%                0            0            0
+75% - 84%                0            0            0
+50% - 74%                0            0            0
+No Match                 3           10        83.33
+Total                    5           12          100
+Chars/word            3.33

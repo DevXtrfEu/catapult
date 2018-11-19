@@ -1,0 +1,543 @@
+<task name="analyse">
+	<taskInfo
+		taskId="bd78c6dd-0eac-4177-b746-f83fadbdcd6a"
+		runAt="18.03.2010. 16:51:35"
+		runTime="11 seconds">
+		<project
+			name="GO_Blonde"
+			number="046d9020-afa4-4271-96bb-910849ca37f2" />
+		<language
+			lcid="1049"
+			name="Russian (Russia)" />
+		<customer
+			name="UVB"
+			email="laura@uvb.lv" />
+		<tm name="TM_local_UVB_LV_RU.sdltm" />
+		<settings
+			reportInternalFuzzyLeverage="no"
+			reportCrossFileRepetitions="yes"
+			minimumMatchScore="70"
+			searchMode="bestWins"
+			missingFormattingPenalty="1"
+			differentFormattingPenalty="1"
+			multipleTranslationsPenalty="1"
+			autoLocalizationPenalty="0"
+			textReplacementPenalty="0" />
+	</taskInfo>
+	<file
+		name="PIETEIKUMA ANKETA_Manro konkursam.doc"
+		guid="93a1e141-faeb-4223-86d8-acaa6c4a532a">
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<exact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<repeated
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<total
+				segments="12"
+				words="31"
+				characters="241"
+				placeables="9"
+				tags="8" />
+			<new
+				segments="11"
+				words="30"
+				characters="217"
+				placeables="8"
+				tags="8" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="1"
+				words="1"
+				characters="24"
+				placeables="1"
+				tags="0" />
+		</analyse>
+	</file>
+	<file
+		name="Pink party.doc"
+		guid="42181538-550a-498a-993f-00a38b656a30">
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<exact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<repeated
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<total
+				segments="13"
+				words="44"
+				characters="277"
+				placeables="4"
+				tags="0" />
+			<new
+				segments="13"
+				words="44"
+				characters="277"
+				placeables="4"
+				tags="0" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+		</analyse>
+	</file>
+	<file
+		name="rekl.doc"
+		guid="5e1c96e9-6154-4a20-9af3-6ff00bcd55d1">
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<exact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<repeated
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<total
+				segments="11"
+				words="92"
+				characters="665"
+				placeables="26"
+				tags="16" />
+			<new
+				segments="9"
+				words="90"
+				characters="619"
+				placeables="24"
+				tags="16" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="2"
+				words="2"
+				characters="46"
+				placeables="2"
+				tags="0" />
+		</analyse>
+	</file>
+	<file
+		name="Nolikums.doc"
+		guid="6550ba23-4303-4ea1-9aeb-e5fcfaeaccf2">
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<exact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<repeated
+				segments="3"
+				words="3"
+				characters="54"
+				placeables="2"
+				tags="0" />
+			<total
+				segments="45"
+				words="305"
+				characters="1923"
+				placeables="40"
+				tags="18" />
+			<new
+				segments="42"
+				words="302"
+				characters="1869"
+				placeables="38"
+				tags="18" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+		</analyse>
+	</file>
+	<file
+		name="Merilina Monro.doc"
+		guid="6b276d16-7442-44a1-86b4-bb076ad9d7b7">
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<exact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<repeated
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<total
+				segments="11"
+				words="73"
+				characters="440"
+				placeables="8"
+				tags="0" />
+			<new
+				segments="11"
+				words="73"
+				characters="440"
+				placeables="8"
+				tags="0" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+		</analyse>
+	</file>
+	<file
+		name="Lai kļūtu par aktīvo biedri.doc"
+		guid="a904063d-8fa9-46a7-9cf9-98523b7b137c">
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<exact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<repeated
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<total
+				segments="15"
+				words="144"
+				characters="937"
+				placeables="13"
+				tags="6" />
+			<new
+				segments="15"
+				words="144"
+				characters="937"
+				placeables="13"
+				tags="6" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+		</analyse>
+	</file>
+	<batchTotal>
+		<analyse>
+			<perfect
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<inContextExact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<exact
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<repeated
+				segments="3"
+				words="3"
+				characters="54"
+				placeables="2"
+				tags="0" />
+			<total
+				segments="107"
+				words="689"
+				characters="4483"
+				placeables="100"
+				tags="48" />
+			<new
+				segments="101"
+				words="683"
+				characters="4359"
+				placeables="95"
+				tags="48" />
+			<fuzzy
+				min="50"
+				max="74"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="75"
+				max="84"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="85"
+				max="94"
+				segments="0"
+				words="0"
+				characters="0"
+				placeables="0"
+				tags="0" />
+			<fuzzy
+				min="95"
+				max="99"
+				segments="3"
+				words="3"
+				characters="70"
+				placeables="3"
+				tags="0" />
+		</analyse>
+	</batchTotal>
+</task>

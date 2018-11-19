@@ -1,0 +1,448 @@
+﻿<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:XmlReporting="urn:XmlReporting">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8"><LINK href="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio3\ReportResources\css\reports.css" type="text/css" rel="stylesheet"><script language="JavaScript">
+					
+						function OpenFile(guid)
+						{
+							if (window.external)
+							{
+								try
+								{
+									window.external.OpenFile(guid); 
+								}
+								catch (e)
+								{
+									document.getElementById(guid).click();
+								}
+							}
+							else
+							{
+								document.getElementById(guid).click();
+							}
+						}
+						
+						function Switch(fileguid, showhide)
+						{
+							if (showhide == "hide")
+							{
+								document.getElementById(fileguid + "_plus").style.display="";
+								document.getElementById(fileguid + "_minus").style.display="none";							
+								document.getElementById(fileguid + "_files").style.display="none";
+							}
+							else
+							{
+								document.getElementById(fileguid + "_plus").style.display="none";
+								document.getElementById(fileguid + "_minus").style.display="";							
+								document.getElementById(fileguid + "_files").style.display="";
+							}
+						}
+					
+						
+					</script></head>
+  <body>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="100%">
+          <h1>Informe de análisis de archivos</h1>
+        </td>
+        <td valign="top"><img src="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio3\ReportResources\images/StudioPower.jpg&#xD;&#xA;                "></td>
+      </tr>
+    </table>
+    <h2 class="first">Resumen</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Tarea:</td>
+        <td class="InfoData">Analizar archivos</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Proyecto:</td>
+        <td class="InfoData">[EN-US]-[PL] XTRF-TEST-1-1401278000042</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Fecha de entrega:</td>
+        <td class="InfoData">2015-05-28 00:00:00</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Idioma:</td>
+        <td class="InfoData">Polish (Poland)</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Archivos:</td>
+        <td class="InfoData">1</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Creado:</td>
+        <td class="InfoData">2014-08-01 10:34:24</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Duración de la tarea:</td>
+        <td class="InfoData">1 seconds</td>
+      </tr>
+    </table>
+    <h2 class="first">Configuración</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Informar de las repeticiones entre archivos:</td>
+        <td class="InfoData">Sí</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Informar del aprovechamiento de coincidencias parciales internas:</td>
+        <td class="InfoData">Sí</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Informar de los segmentos bloqueados: </td>
+        <td class="InfoData">Sí</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Valor mínimo de coincidencia:</td>
+        <td class="InfoData">70%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Modo de búsqueda:</td>
+        <td class="InfoData">Utilizar la mejor coincidencia de todos los orígenes de traducción.</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por falta de formato:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por diferencias de formato:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por varias traducciones:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por localización automática:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por reemplazo de texto:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+    </table>
+    <h2>Totales</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Total</th>
+        <th class="TypeHead">Tipo</th>
+        <th class="Unit">Segmentos</th>
+        <th class="Unit">Palabras</th>
+        <th class="Unit">Caracteres</th>
+        <th class="Unit">Porcentaje</th>
+        <th class="Unit">Elementos reconocidos</th>
+        <th class="Unit">Etiquetas</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Archivos:1</th>
+        <th class="Header">Bloqueado </th>
+        <td>1</td>
+        <td>2</td>
+        <td>5</td>
+        <td>50.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="16" align="left" valign="top">Caracteres/palabra:3.00</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Coincidencia de contexto</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <th class="Header">Repeticiones</th>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.00%</td>
+      <td>0</td>
+      <td>0</td>
+      <tr>
+        <th class="Header">Repeticiones entre archivos</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">Interna:</th>
+        <td class="WithLineAbove" colspan="6"></td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">Nuevos</th>
+        <td class="WithLineAbove">1</td>
+        <td class="WithLineAbove">5</td>
+        <td class="WithLineAbove">16</td>
+        <td class="WithLineAbove">50.00%</td>
+        <td class="WithLineAbove">0</td>
+        <td class="WithLineAbove">0</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">2</td>
+        <td class="Total">7</td>
+        <td class="Total">21</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+    <h2>Detalles del archivo</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Archivo</th>
+        <th class="TypeHead">Tipo</th>
+        <th class="Unit">Segmentos</th>
+        <th class="Unit">Palabras</th>
+        <th class="Unit">Caracteres</th>
+        <th class="Unit">Porcentaje</th>
+        <th class="Unit">Elementos reconocidos</th>
+        <th class="Unit">Etiquetas</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">sample.txt.sdlxliff</th>
+        <th class="Header">Bloqueado </th>
+        <td>1</td>
+        <td>2</td>
+        <td>5</td>
+        <td>50.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="16" align="left" valign="top">Caracteres/palabra:3.00</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Coincidencia de contexto</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <th class="Header">Repeticiones</th>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.00%</td>
+      <td>0</td>
+      <td>0</td>
+      <tr>
+        <th class="Header">Repeticiones entre archivos</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">Interna:</th>
+        <td class="WithLineAbove" colspan="6"></td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">Nuevos</th>
+        <td class="WithLineAbove">1</td>
+        <td class="WithLineAbove">5</td>
+        <td class="WithLineAbove">16</td>
+        <td class="WithLineAbove">50.00%</td>
+        <td class="WithLineAbove">0</td>
+        <td class="WithLineAbove">0</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">2</td>
+        <td class="Total">7</td>
+        <td class="Total">21</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+Target Locale,Asset,Total,ICE Match,100%,100-95%,95-85%,85-75%,75-50%,50-0%,Repetition,Cost Estimate,MT Fuzzy Words,Multiple 100%
+"French (France)","sample file 01",60,10,4,0,0,0,0,26,20,"0",0,0
+"French (France)","sample file 02",4694,10,114,74,19,17,209,3732,519,"0",0,0
+"French (France)","sample file 03",297,0,1,0,27,14,22,152,81,"0",0,0
+"French (France)","sample file 04",7,5,2,0,0,0,0,0,0,"0",0,0
+"French (France)","French (France) Total",5058,25,121,74,46,31,231,3910,620,"0.00",0,0
+"German (Germany)","sample file 05",60,10,4,0,0,0,0,26,20,"0",0,0
+"German (Germany)","sample file 06",4694,10,93,74,19,14,173,3774,537,"0",0,0
+"German (Germany)","sample file 07",297,0,0,0,27,14,22,152,82,"0",0,0
+"German (Germany)","sample file 08",7,5,2,0,0,0,0,0,0,"0",0,0
+"German (Germany)","German (Germany) Total",5058,25,99,74,46,28,195,3952,639,"0.00",0,0
+"Spanish (Spain - International Sort)","sample file 09",60,10,4,0,0,0,0,26,20,"0",0,0
+"Spanish (Spain - International Sort)","sample file 10",4694,10,49,36,4,6,117,3927,545,"0",0,0
+"Spanish (Spain - International Sort)","sample file 11",297,0,0,0,0,0,17,198,82,"0",0,0
+"Spanish (Spain - International Sort)","sample file 12",7,5,2,0,0,0,0,0,0,"0",0,0
+"Spanish (Spain - International Sort)","Spanish (Spain - International Sort) Total",5058,25,55,36,4,6,134,4151,647,"0.00",0,0
+"","Grand Total",15174,75,275,184,96,65,560,12013,1906,"0.00",0,0

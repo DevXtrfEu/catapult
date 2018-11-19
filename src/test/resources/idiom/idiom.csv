@@ -1,0 +1,10 @@
+Target Locale,Asset,Total,ICE Match,100%,100-95%,95-85%,85-75%,75-50%,50-0%,Repetition,Cost Estimate (USD),MT Fuzzy Words
+"lt","/Google content/en/Google Docs/56418/PresentlyGXP.DocsPresentlyGXP.05-04-09.15-34.txt",80,0,65,0,7,0,4,4,0,"0",0
+"lt","/Google content/en/Google Docs/56418/SketchyClient.DocsSketchyUI.05-04-09.15-32.txt",1,0,1,0,0,0,0,0,0,"0",0
+"lt","/Google content/en/Google Docs/56418/TrixClientUI.DocsSpreadsheetsClientInterface.05-04-09.15-32.txt",95,0,1,4,0,12,17,56,5,"0",0
+"lt","/Google content/en/Google Docs/56418/TrixUI.DocsSpreadsheetsUI.05-04-09.15-31.txt",237,0,104,0,0,0,23,95,15,"0",0
+"lt","/Google content/en/Google Docs/56418/WritelyCode.DocsWritelyUI.05-04-09.15-25.txt",81,0,25,7,7,29,4,9,0,"0",0
+"lt","/Google content/en/Google Docs/56418/WritelyDoclist.DocsDoclistWritelyTrixJavaGXP.05-04-09.15-39.txt",486,0,150,30,26,68,61,103,48,"0",0
+"lt","/Google content/en/Google Docs/56418/WritelyDoclistJavascript.DocsDoclistWritelyandTrixJavascript.05-04-09.15-35.txt",106,0,6,2,0,0,29,34,35,"0",0
+"lt","/Google content/en/Google Docs/56418/WritelyJavaMessages.DocsWritelyJavaMessages.05-04-09.15-27.txt",100,0,60,0,0,0,0,0,40,"0",0
+""," Total",1186,0,412,43,40,109,138,301,143,"0",0

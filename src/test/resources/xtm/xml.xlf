@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<metrics:metrics source-language="en-GB" target-language="pl-PL" tool-name="xml-intl XLIFF Extract" version="1.0">
+		<metrics:stage date="20080124T121822GMT" phase="initial">
+			<metrics:count-group name="verifiable">
+				<metrics:count type="TextUnitCount" value="21"/>
+				<metrics:count type="AlphanumericOnlyTextUnitCount" value="0"/>
+				<metrics:count type="MeasurementOnlyTextUnitCount" value="0"/>
+				<metrics:count type="NumericOnlyTextUnitCount" value="0"/>
+				<metrics:count type="PunctuationOnlyTextUnitCount" value="0"/>
+				<metrics:count type="ExactMatchedTextUnitCount" value="0"/>
+				<metrics:count type="RealTextUnitCount" value="2"/>
+				<metrics:count type="LeveragedMatchedTextUnitCount" value="12"/>
+				<metrics:count type="RepetitionMatchedTextUnitCount" value="1"/>
+				<metrics:count category="95-99" type="RepetitionMatchedTextUnitCount" value="0"/>
+				<metrics:count category="85-94" type="RepetitionMatchedTextUnitCount" value="0"/>
+				<metrics:count category="70-84" type="RepetitionMatchedTextUnitCount" value="1"/>
+				<metrics:count category="95-99" type="FuzzyMatchedTextUnitCount" value="4"/>
+				<metrics:count category="85-94" type="FuzzyMatchedTextUnitCount" value="1"/>
+				<metrics:count category="70-84" type="FuzzyMatchedTextUnitCount" value="0"/>
+				<metrics:count type="TranslatableInlineCount" value="14"/>
+				<metrics:count type="TotalWordCount" value="196"/>
+				<metrics:count type="AlphanumericOnlyTextUnitWordCount" value="0"/>
+				<metrics:count type="MeasurementOnlyTextUnitWordCount" value="0"/>
+				<metrics:count type="NumericOnlyTextUnitWordCount" value="0"/>
+				<metrics:count type="ExactMatchedWordCount" value="0"/>
+				<metrics:count type="RealWordCount" value="9"/>
+				<metrics:count type="LeveragedMatchedWordCount" value="94"/>
+				<metrics:count type="RepetitionMatchedWordCount" value="8"/>
+				<metrics:count category="95-99" type="RepetitionMatchedWordCount" value="0"/>
+				<metrics:count category="85-94" type="RepetitionMatchedWordCount" value="0"/>
+				<metrics:count category="70-84" type="RepetitionMatchedWordCount" value="9"/>
+				<metrics:count category="95-99" type="FuzzyMatchedWordCount" value="69"/>
+				<metrics:count category="85-94" type="FuzzyMatchedWordCount" value="7"/>
+				<metrics:count category="70-84" type="FuzzyMatchedWordCount" value="0"/>
+				<metrics:count type="TotalCharacterCount" value="1031"/>
+				<metrics:count type="PunctuationCharacterCount" value="21"/>
+				<metrics:count type="WhiteSpaceCharacterCount" value="165"/>
+				<metrics:count type="AlphanumericOnlyTextUnitCharacterCount" value="0"/>
+				<metrics:count type="MeasurementOnlyTextUnitCharacterCount" value="0"/>
+				<metrics:count type="NumericOnlyTextUnitCharacterCount" value="0"/>
+				<metrics:count type="PunctuationOnlyTextUnitCharacterCount" value="0"/>
+				<metrics:count type="ExactMatchedCharacterCount" value="0"/>
+				<metrics:count type="RealCharacterCount" value="40"/>
+				<metrics:count type="LeveragedMatchedCharacterCount" value="499"/>
+				<metrics:count type="RepetitionMatchedCharacterCount" value="34"/>
+				<metrics:count category="95-99" type="RepetitionMatchedCharacterCount" value="0"/>
+				<metrics:count category="85-94" type="RepetitionMatchedCharacterCount" value="0"/>
+				<metrics:count category="70-84" type="RepetitionMatchedCharacterCount" value="45"/>
+				<metrics:count category="95-99" type="FuzzyMatchedCharacterCount" value="381"/>
+				<metrics:count category="85-94" type="FuzzyMatchedCharacterCount" value="31"/>
+				<metrics:count category="70-84" type="FuzzyMatchedCharacterCount" value="0"/>
+			</metrics:count-group>
+		</metrics:stage>
+		<metrics:stage date="20080124T121822GMT" phase="translation">
+			<metrics:count-group name="verifiable">
+				<metrics:count type="UnitsDone" value="0"/>
+				<metrics:count type="WordsDone" value="0"/>
+				<metrics:count type="CharactersDone" value="21"/>
+			</metrics:count-group>
+		</metrics:stage>
+	</metrics:metrics>

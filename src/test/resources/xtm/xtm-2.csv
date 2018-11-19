@@ -1,0 +1,20 @@
+Project name;Hamlet Act 3 Scene 1;File name;Hamlet - Act 3, Scene 1.odt;Target language;French;
+Initial;Segments;Words;Word %;Characters;Characters %;Characters excluding spaces
+Total count;281;1614;100%;8512;100%;7181
+Non-translatable;0;0;0%;0;0%;0
+Translation memory matching
+ICE match;24;186;12%;971;11%;809
+Leveraged match;7;51;3%;271;3%;227
+95-99% Fuzzy match;0;0;0%;0;0%;0
+85-94% Fuzzy match;2;16;1%;85;1%;72
+75-84% Fuzzy match;1;8;0%;45;1%;38
+Internal matching
+Repeat;39;49;3%;347;4%;337
+95-99% Fuzzy repeat;0;0;0%;0;0%;0
+85-94% Fuzzy repeat;0;0;0%;0;0%;0
+75-84% Fuzzy repeat;2;8;0%;54;1%;48
+No matching;206;1296;80%;6739;79%;5650
+Progress - Translate 1
+Done;24;186;12%;971;11%;809
+To be done;257;1428;88%;7541;89%;6372
+To be corrected;0;0;0%;0;0%;0

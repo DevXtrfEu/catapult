@@ -1,0 +1,134 @@
+Statistics for project TestGerEng2
+
+Counts
+Scope;Project
+Type;Segments;Source words;Source chars;Percent;Target words;Target chars
+All;170;1474;8898;100;87;624
+Repetition;17;103;605;7;0;0
+Not started;155;1385;8265;94;0;0
+Pre-translated;0;0;0;0;0;0
+Fragments;0;0;0;0;0;0
+Edited;1;2;9;0;0;0
+Confirmed;14;87;624;6;87;624
+Locked;0;0;0;0;0;0
+
+Analysis
+Scope;Project
+Resources;Every TM, Homogeneity
+Type;Segments;Source words;Source chars;Percent
+All;170;1474;8898;100
+Repetition;11;56;311;4
+101%;17;131;886;9
+100%;0;0;0;0
+95%-99%;1;8;38;1
+85%-94%;2;29;148;2
+75%-84%;5;44;236;3
+50%-74%;21;91;544;6
+Fragments;0;0;0;0
+No match;113;1115;6735;76
+
+Analysis
+Scope;Project
+Resources;TestGerEng
+Type;Segments;Source words;Source chars;Percent
+All;170;1474;8898;100
+Repetition;17;103;605;7
+101%;11;84;592;6
+100%;0;0;0;0
+95%-99%;0;0;0;0
+85%-94%;0;0;0;0
+75%-84%;1;1;20;0
+50%-74%;3;15;96;1
+Fragments;0;0;0;0
+No match;138;1271;7585;86
+
+------------------------------------------------------------------------------------
+
+Counts
+Scope;BD_0303170800_Software_Aufbau_Inbetriebnahme_4.rtf (C:\Documents and Settings\gabor\Desktop\BD_0303170800_Software_Aufbau_Inbetriebnahme_4.rtf)
+Type;Segments;Source words;Source chars;Percent;Target words;Target chars
+All;143;1173;7534;100;87;624
+Repetition;14;77;494;7;0;0
+Not started;128;1084;6901;92;0;0
+Pre-translated;0;0;0;0;0;0
+Fragments;0;0;0;0;0;0
+Edited;1;2;9;0;0;0
+Confirmed;14;87;624;7;87;624
+Locked;0;0;0;0;0;0
+
+Analysis
+Scope;BD_0303170800_Software_Aufbau_Inbetriebnahme_4.rtf (C:\Documents and Settings\gabor\Desktop\BD_0303170800_Software_Aufbau_Inbetriebnahme_4.rtf)
+Resources;Every TM, Homogeneity
+Type;Segments;Source words;Source chars;Percent
+All;143;1173;7534;100
+Repetition;8;30;200;3
+101%;17;131;886;11
+100%;0;0;0;0
+95%-99%;0;0;0;0
+85%-94%;1;20;102;2
+75%-84%;3;13;103;1
+50%-74%;19;86;531;7
+Fragments;0;0;0;0
+No match;95;893;5712;76
+
+Analysis
+Scope;BD_0303170800_Software_Aufbau_Inbetriebnahme_4.rtf (C:\Documents and Settings\gabor\Desktop\BD_0303170800_Software_Aufbau_Inbetriebnahme_4.rtf)
+Resources;TestGerEng
+Type;Segments;Source words;Source chars;Percent
+All;143;1173;7534;100
+Repetition;14;77;494;7
+101%;11;84;592;7
+100%;0;0;0;0
+95%-99%;0;0;0;0
+85%-94%;0;0;0;0
+75%-84%;1;1;20;0
+50%-74%;3;15;96;1
+Fragments;0;0;0;0
+No match;114;996;6332;85
+
+------------------------------------------------------------------------------------
+
+Counts
+Scope;xxx.doc (C:\Documents and Settings\gabor\Desktop\xxx.doc)
+Type;Segments;Source words;Source chars;Percent;Target words;Target chars
+All;27;301;1364;100;0;0
+Repetition;3;26;111;9;0;0
+Not started;27;301;1364;100;0;0
+Pre-translated;0;0;0;0;0;0
+Fragments;0;0;0;0;0;0
+Edited;0;0;0;0;0;0
+Confirmed;0;0;0;0;0;0
+Locked;0;0;0;0;0;0
+
+Analysis
+Scope;xxx.doc (C:\Documents and Settings\gabor\Desktop\xxx.doc)
+Resources;Every TM, Homogeneity
+Type;Segments;Source words;Source chars;Percent
+All;27;301;1364;100
+Repetition;3;26;111;9
+101%;0;0;0;0
+100%;0;0;0;0
+95%-99%;1;8;38;3
+85%-94%;1;9;46;3
+75%-84%;2;31;133;10
+50%-74%;2;5;13;2
+Fragments;0;0;0;0
+No match;18;222;1023;74
+
+Analysis
+Scope;xxx.doc (C:\Documents and Settings\gabor\Desktop\xxx.doc)
+Resources;TestGerEng
+Type;Segments;Source words;Source chars;Percent
+All;27;301;1364;100
+Repetition;3;26;111;9
+101%;0;0;0;0
+100%;0;0;0;0
+95%-99%;0;0;0;0
+85%-94%;0;0;0;0
+75%-84%;0;0;0;0
+50%-74%;0;0;0;0
+Fragments;0;0;0;0
+No match;24;275;1253;91
+
+------------------------------------------------------------------------------------
+

@@ -1,0 +1,772 @@
+Fortis Version: 4.0.5534
+
+*** Processed files ***
+   1. MCP5194 8.doc
+
+*** Summary Statistics ***
+Total Statistics:
+                *	Segments	Words	Characters	Tags
+    Pretranslated	     960	12451	     66898	1440
+ Part. Translated	      38	  181	       806	  46
+   Not Translated	     246	 4285	     23964	 246
+            Total	    1244	16917	     91668	1732
+Fuzzy Match [70%]	      94	 1408	      8419	 103
+
+*** Repetition Statistics ***
+Repetition statistics are for segments without any match in translation memory (full, partial or fuzzy).
+Repetition Statistics:
+                          *	Segments	Words	Characters	Tags
+   Distinct Full Repetition	       7	  110	       552	   5
+ Cumulative Full Repetition	      15	  224	      1134	  12
+  Distinct Full+Partial Rep	       7	  110	       552	   0
+Cumulative Full+Partial Rep	      15	  224	      1134	   0
+
+*** Fuzzy Match Histogram ***
+ 99-96  95-91  90-86  85-81  80-76  75-71 
+   115    188    279    196    199    372 MCP5194 8.doc
+   115    188    279    196    199    372 TOTAL
+
+*** Statistics Per File ***
+Statistics MCP5194 8.doc:
+               *	Segments	Words	Characters	Tags
+   Pretranslated	     960	12451	     66898	1440
+Part. Translated	      38	  181	       806	  46
+  Not Translated	     246	 4285	     23964	 246
+           Total	    1244	16917	     91668	1732
+     Fuzzy Match	      94	 1408	      8419	 103
+
+*** Reference Files ***
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\CEN5298_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\END6229_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\END6229_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\MCP5205_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\MCP5205_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\MCP5205_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\VTN5301_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\VTN5302_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\VTN5388_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\1-0\06-2039_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\1-0\06-2039_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\1-0\83529.0029_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\1-0\83529.0055_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\1-0\83529.0064_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5002.2_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5002.2_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5002.2_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5002_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5002_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5002_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5002_Part_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5004_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5007_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5008_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5010_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5010_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5011_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5025_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5028_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5028_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ACC5029_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\Additional Claims for RU_en_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ALZ5310_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ALZ5310_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ALZ5310_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\AmendedClaims_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ANM5245_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ASP5070_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ASP5072_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ASP5073_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\A\ASP5074_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5211_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5216_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5230_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5237_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5250_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5276_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5276_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5276_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5276_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5276_Part_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5276_Part_6_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5283_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5283_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5294_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5338_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5340_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\B\BIO5340_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CDS5037_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CDS5039_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CDS5071_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CDS5073_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CDS5097_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CDS5097_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CDS5097_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5198 PART 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5198 PART 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5198 PART 3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5198 PART 4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5198 PART 5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5214_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5217_1 - no tables_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5217_2 - no tables_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5217_3 - no tables_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5217_4 - no tables_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5217_5 - no tables_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5218 - NO TABLES_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5222_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5223_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5224 - no tables_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5224 - no tables_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5224 - no tables_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5224 - no tables_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5224 - no tables_Part_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5227 - no tables_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5227 - no tables_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5227 - no tables_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5227 - no tables_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5227 - no tables_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5229_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5230_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5233_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5242_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5242_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5242_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5242_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5242_Part_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5244 - no tables_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5245_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5245_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5245_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5245_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5246_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5250_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5251_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5251_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5251_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5251_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5258_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5270_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5270_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5276-SEQUENCE LISTING_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5276_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5276_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5276_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5276_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5282_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5292-SEQLIST_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5292_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5293_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5297-SEQUENCE LISTINGS_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5297_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CEN5297_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CIL5001_Amended claim_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CIL5001_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CRD5426CIP1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CRD5470_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CRD5470_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CRD5472_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CRD5474_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CRD5477_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CRD5478_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CRD5483_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CRD5483_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\C\CRD5483_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DDI5183_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DDI5183_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DDI5183_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DDI5191_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DDI5191_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DDI5191_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DDI5200_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DDI5227_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DEP6060_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DEP6220_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DEP6220_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DEP6220_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DEP6258_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DEP6258_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DEP6258_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\D\DEP6258_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\DDO\EN-RU\WO2011149749_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END5517_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END5953.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6179_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6256.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6256_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6260_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6261_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6286_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6287_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6288_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6289_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6292_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6293_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6294_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6295_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6296_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6297_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6298_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6300_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6319WO1_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6319WO1_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6319_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6319_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6319_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6319_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6320_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6323.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6323.2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6323.3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6323_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6329_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6366_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6366_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6366_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6366_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6366_Part_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6379_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6380_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6381_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6382_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6404_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6417_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6417_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6417_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6417_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6429_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6544CIP7_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6544CIP8_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6544_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6547_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6548_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6549_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6569_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6569_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6569_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6569_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6569_Part_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6570_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6570_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6570_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6570_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6604_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6605_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6605_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6605_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6610_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6610_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6611_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6612.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6612_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6612_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6612_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6612_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6615_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6616_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6617_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6618_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6631.1_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6631.1_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6631.1_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6631_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6631_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6631_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6631_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6631_Part_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6631_Part_6_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6631_Part_7_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6631_Part_8_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\END6757_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH1690_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH1690_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5206WO1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5318_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5319_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5338_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5370_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5378_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5388_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5395_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5396_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5398_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5399_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5433_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5439_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5439_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5439_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5449_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5450WO1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5450_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5566_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5566_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5566_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5574-AMENDED CLAIMS_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5574_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5574_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5578_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5578_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5584_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5594 A_CLAIMS_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5594_part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5594_part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5598_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5601_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5602_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5709_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5709_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5709_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5710 EPO_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5710_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5710_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5710_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5710_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\E\ETH5710_Part_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\G\GLO5001_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\G\GLO5002_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\G\GLO5003_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5310_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5313_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5336_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5344_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5364_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5378_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5378_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5379_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5379_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5379_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5379_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5419_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5421_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5423_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5424_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5425_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5425_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5426_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5428_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5429_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5432_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5441_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5449_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5450.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5450_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5450_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5454DP_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5456DP_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5457.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5457.2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5457_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5457_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\J&J5464_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JBP5047_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JBP5048_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JBP5049_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JBP5050.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JBP5050_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5021.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5021_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5021_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5021_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5022_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5025_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5026_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5027_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5028_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5033_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5034_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5037_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5050.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5050_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5050_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JCO5050_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5040_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5052_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5053_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5054_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5056_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5058.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5058.2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5058.3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5058_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5058_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5058_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5058_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5058_Part_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5059_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5060_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5061_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5064_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5066_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5066_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5066_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5067_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5068_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5069_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5070_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5071_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5072_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5073_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JDC5074_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JJ5434_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JJ5434_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JNJ5417_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JNJ5417_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JNJ5417_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JNJ5418_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JNJ5418_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\J\JNJ5418_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\L\LFS5177_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\L\LFS5204_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\L\LFS5204_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\L\LFS5205_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\L\LFS5205_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\L\LFS5205_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\L\LFS5205_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\L\LFS5211_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MAB5008_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MAB5012DP_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5155_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5157_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5158_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5163_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5164_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5167_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5176_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5183_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5185_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5187_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5194.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5194.3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5194.4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5194_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5194_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5197 - SequenceListing.txt_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5197_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5213_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5220_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5221_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\MCP5223_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\M\Missing Callouts_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5285_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\ppc5289FF_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5322_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5323_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5324_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5330.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5330_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5331.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5331_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5332CIP1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5332CIP2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5332_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5335_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5336_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5337 - no tables_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5337.1 - no tables_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5338_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5340_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5341_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5342_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5345-REVISED CLAIMS_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5345_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5350_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5351_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5358_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5359_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5362_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPC5364_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PPCT5325_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2789_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2791_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2792_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2877 part 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2877 part 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2877 part 3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2892 - part 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2892 - part 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2892 - part 3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2892 - part 4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2893_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2901_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2901_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2901_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2906_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2907_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2962_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2962_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2962_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2962_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2962_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2971 - part 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2971 - part 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2971 - part 3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2978 - Part 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2978 - Part 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2978 - Part 3 - no tables_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2979_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2980_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2987_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2988_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD2999_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3019_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3021_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3021_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3021_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3021_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3030_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3030_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3030_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3030_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3030_Part_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3036_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3040WO1 -SEQUENCE LISTING.txt_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3040WO1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3040_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3040_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3040_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3072_Part_10-1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3072_Part_10-2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3072_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3072_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3072_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3072_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3072_Part_5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3072_Part_6_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3072_Part_7_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3072_Part_8_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3072_Part_9_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3082_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3082_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3082_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3082_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 10_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 11_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 12_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 13_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 14_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 15_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 6_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 7_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 8_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.1 Part 9_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 10_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 11_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 12_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 13_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 14_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 15_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 6_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 7_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 8_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2 Part 9_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.2_add part_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 10_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 11_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 12_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 13_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 14_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 15_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 6_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 7_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 8_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.3 Part 9_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 10_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 11_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 12_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 13_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 14_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 15_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 6_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 7_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 8_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.4 Part 9_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 10_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 11_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 12_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 13_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 14_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 15_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 6_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 7_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 8_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.5 Part 9_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 10_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 11_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 12_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 13_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 14_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 15_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 5-6_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 7_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 8_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.6 Part 9_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 10_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 11_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 12_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 13_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 14_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 15_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 6_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 7_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 8_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085.7 Part 9_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 10_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 11_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 12_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 13_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 14_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 15_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 5_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 6_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 7_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 8_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3085_Part 9_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3097_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3097_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3098_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3098_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3120_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3120_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3121_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3121_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3121_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3121_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3122_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3122_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3122_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3125_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3125_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3126_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3127_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3129_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3149_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\P\PRD3150_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\rep\1-NOTE RE ADDL CLAIMS_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\rep\repetitions_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\rep\Reps_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\S\SPC5341_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\U\Ultra-thin Absorbent Article (31PC) (00117041)_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VNT5249_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VNT5249_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VNT5249_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VNT5249_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5181WO1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5186_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5194_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5194_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5194_Part_3_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5194_Part_4_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5197_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5198_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5200_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5205_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5205_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5206_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5207_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5208_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5209_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5210_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5212WO1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5212WO_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5213_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5214_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5215_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5216_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5217_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5219_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5222_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5224_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5225_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5226_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5227_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5228.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5228_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5230_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5231_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5232_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5233_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5234_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5244_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5247_no tables_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5247_no tables_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5248_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5250_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5251_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5255_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5257_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5257_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5259_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5259_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5260_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5260_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5290_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5291_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5292_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5297_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5298_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5300_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5321.1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5365_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5379 1_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5379 1_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5383_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\V\VTN5383_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-10224_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11017-EN_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11045-EN_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11055-EN_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11088-EN_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11112-EN_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11113-EN_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11114 additional claims_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11176-EN_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11183_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11183_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11199-EN_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11199_Additional Claims_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11213_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11214_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11356_Part_1_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11356_Part_2_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-11434_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-12142_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\PYGA-12447_en.fff
+  C:\PROJECTS 2013\Multiling\Instructions\JNJ\YOKJ\W-4502_en.fff
+

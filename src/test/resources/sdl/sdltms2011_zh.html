@@ -1,0 +1,447 @@
+﻿<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:XmlReporting="urn:XmlReporting">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8"><LINK href="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio2\ReportResources\css\reports.css" type="text/css" rel="stylesheet"><script language="JavaScript">
+					
+						function OpenFile(guid)
+						{
+							if (window.external)
+							{
+								try
+								{
+									window.external.OpenFile(guid); 
+								}
+								catch (e)
+								{
+									document.getElementById(guid).click();
+								}
+							}
+							else
+							{
+								document.getElementById(guid).click();
+							}
+						}
+						
+						function Switch(fileguid, showhide)
+						{
+							if (showhide == "hide")
+							{
+								document.getElementById(fileguid + "_plus").style.display="";
+								document.getElementById(fileguid + "_minus").style.display="none";							
+								document.getElementById(fileguid + "_files").style.display="none";
+							}
+							else
+							{
+								document.getElementById(fileguid + "_plus").style.display="none";
+								document.getElementById(fileguid + "_minus").style.display="";							
+								document.getElementById(fileguid + "_files").style.display="";
+							}
+						}
+					
+						
+					</script></head>
+  <body>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="100%">
+          <h1>分析文件报告</h1>
+        </td>
+        <td valign="top"><img src="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio2\ReportResources\images/StudioPower.jpg&#xD;&#xA;								"></td>
+      </tr>
+    </table>
+    <h2 class="first">汇总</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">任务：</td>
+        <td class="InfoData">分析文件</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">项目：</td>
+        <td class="InfoData">5480</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">语言：</td>
+        <td class="InfoData">English (United States)</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">文件：</td>
+        <td class="InfoData">2</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">创建时间：</td>
+        <td class="InfoData">2013-11-22 20:18:19</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">任务持续时间：</td>
+        <td class="InfoData">2 minutes, 13 seconds</td>
+      </tr>
+    </table>
+    <h2 class="first">设置</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">报告文件间的重复：</td>
+        <td class="InfoData">是</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">报告内部模糊匹配利用情况：</td>
+        <td class="InfoData">否</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">最低匹配率：</td>
+        <td class="InfoData">70%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">搜索模式：</td>
+        <td class="InfoData">使用所有翻译源中的最佳匹配。</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">缺少格式罚分：</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">格式不同罚分：</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">一句多译罚分：</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">自动本地化罚分：</td>
+        <td class="InfoData">0%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">文本替换罚分：</td>
+        <td class="InfoData">0%</td>
+      </tr>
+    </table>
+    <h2>总计</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">总计</th>
+        <th class="TypeHead">类型</th>
+        <th class="Unit">句段</th>
+        <th class="Unit">字数</th>
+        <th class="Unit">字符数</th>
+        <th class="Unit">百分比</th>
+        <th class="Unit">非译元素</th>
+        <th class="Unit">标记</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">文件：2</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="10" align="left" valign="top">字符/单词：5.39</th>
+        <th class="Header">上下文匹配</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">重复</th>
+        <td>4056</td>
+        <td>32188</td>
+        <td>171410</td>
+        <td>50.32%</td>
+        <td>3228</td>
+        <td>818</td>
+      </tr>
+      <tr>
+        <th class="Header">交叉文件重复</th>
+        <td>77</td>
+        <td>16</td>
+        <td>83</td>
+        <td>0.03%</td>
+        <td>74</td>
+        <td>74</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">新建</th>
+        <td>3018</td>
+        <td>31758</td>
+        <td>173032</td>
+        <td>49.65%</td>
+        <td>2466</td>
+        <td>836</td>
+      </tr>
+      <tr>
+        <th class="Total">总计</th>
+        <td class="Total">7151</td>
+        <td class="Total">63962</td>
+        <td class="Total">344525</td>
+        <td class="Total">100%</td>
+        <td class="Total">5768</td>
+        <td class="Total">1728</td>
+      </tr>
+    </table>
+    <h2>文件详情</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">文件</th>
+        <th class="TypeHead">类型</th>
+        <th class="Unit">句段</th>
+        <th class="Unit">字数</th>
+        <th class="Unit">字符数</th>
+        <th class="Unit">百分比</th>
+        <th class="Unit">非译元素</th>
+        <th class="Unit">标记</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Produkter-anno-2013-11-13-translate.xml_eng-US.xlf.sdlxliff</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="10" align="left" valign="top">字符/单词：5.39</th>
+        <th class="Header">上下文匹配</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">重复</th>
+        <td>4007</td>
+        <td>32114</td>
+        <td>170850</td>
+        <td>54.01%</td>
+        <td>3193</td>
+        <td>783</td>
+      </tr>
+      <tr>
+        <th class="Header">交叉文件重复</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">新建</th>
+        <td>2707</td>
+        <td>27345</td>
+        <td>149680</td>
+        <td>45.99%</td>
+        <td>2285</td>
+        <td>710</td>
+      </tr>
+      <tr>
+        <th class="Total">总计</th>
+        <td class="Total">6714</td>
+        <td class="Total">59459</td>
+        <td class="Total">320530</td>
+        <td class="Total">100%</td>
+        <td class="Total">5478</td>
+        <td class="Total">1493</td>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Produktkategorier-anno-2013-11-13-translate.xml_eng-US.xlf.sdlxliff</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="10" align="left" valign="top">字符/单词：5.33</th>
+        <th class="Header">上下文匹配</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">重复</th>
+        <td>49</td>
+        <td>74</td>
+        <td>560</td>
+        <td>1.64%</td>
+        <td>35</td>
+        <td>35</td>
+      </tr>
+      <tr>
+        <th class="Header">交叉文件重复</th>
+        <td>77</td>
+        <td>16</td>
+        <td>83</td>
+        <td>0.36%</td>
+        <td>74</td>
+        <td>74</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">新建</th>
+        <td>311</td>
+        <td>4413</td>
+        <td>23352</td>
+        <td>98.00%</td>
+        <td>181</td>
+        <td>126</td>
+      </tr>
+      <tr>
+        <th class="Total">总计</th>
+        <td class="Total">437</td>
+        <td class="Total">4503</td>
+        <td class="Total">23995</td>
+        <td class="Total">100%</td>
+        <td class="Total">290</td>
+        <td class="Total">235</td>
+      </tr>
+    </table>
+  </body>
+</html>

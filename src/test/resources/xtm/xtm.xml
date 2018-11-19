@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metrics:metrics xmlns:metrics="urn:lisa-metrics-tags">
+	<metrics:stage phase="initial" date="20141113T024142Z">
+		<metrics:count-group name="verifiable">
+			<metrics:count type="TotalWordCount" value="501"/> --
+			<metrics:count type="AlphanumericOnlyTextUnitWordCount" value="4"/>
+			<metrics:count type="MeasurementOnlyTextUnitWordCount" value="0"/>
+			<metrics:count type="NumericOnlyTextUnitWordCount" value="0"/>
+			<metrics:count type="PunctuationOnlyTextUnitWordCount" value="0"/>
+			<metrics:count type="ExactMatchedWordCount" value="0"/> --
+			<metrics:count type="LeveragedMatchedWordCount" value="0"/> --
+			<metrics:count type="RepetitionMatchedWordCount" value="20"/> --
+			<metrics:count type="RepetitionMatchedWordCount" value="0" category="95-99"/> --
+			<metrics:count type="RepetitionMatchedWordCount" value="0" category="85-94"/> --
+			<metrics:count type="RepetitionMatchedWordCount" value="0" category="75-84"/> --
+			<metrics:count type="FuzzyMatchedWordCount" value="7" category="95-99"/> --
+			<metrics:count type="FuzzyMatchedWordCount" value="13" category="85-94"/> --
+			<metrics:count type="FuzzyMatchedWordCount" value="75" category="75-84"/> --
+			<metrics:count type="x-RealWordCount" value="382"/> --
+			<metrics:count type="TotalCharacterCount" value="2679"/>
+			<metrics:count type="AlphanumericOnlyTextUnitCharacterCount" value="16"/>
+			<metrics:count type="MeasurementOnlyTextUnitCharacterCount" value="0"/>
+			<metrics:count type="NumericOnlyTextUnitCharacterCount" value="0"/>
+			<metrics:count type="x-PunctuationOnlyTextUnitCharacterCount" value="0"/>
+			<metrics:count type="ExactMatchedCharacterCount" value="0"/>
+			<metrics:count type="LeveragedMatchedCharacterCount" value="0"/>
+			<metrics:count type="RepetitionMatchedCharacterCount" value="75"/>
+			<metrics:count type="RepetitionMatchedCharacterCount" value="0" category="95-99"/>
+			<metrics:count type="RepetitionMatchedCharacterCount" value="0" category="85-94"/>
+			<metrics:count type="RepetitionMatchedCharacterCount" value="0" category="75-84"/>
+			<metrics:count type="FuzzyMatchedCharacterCount" value="30" category="95-99"/>
+			<metrics:count type="FuzzyMatchedCharacterCount" value="66" category="85-94"/>
+			<metrics:count type="FuzzyMatchedCharacterCount" value="422" category="75-84"/>
+			<metrics:count type="x-RealCharacterCount" value="2070"/>
+			<metrics:count type="PunctuationCharacterCount" value="0"/>
+			<metrics:count type="WhiteSpaceCharacterCount" value="0"/>
+			<metrics:count type="TextUnitCount" value="0"/>
+			<metrics:count type="TranslatableInlineCount" value="0"/>
+			<metrics:count type="x-AlphanumericOnlyTextUnitCount" value="4"/>
+			<metrics:count type="x-MeasurementOnlyTextUnitCount" value="0"/>
+			<metrics:count type="x-NumericOnlyTextUnitCount" value="0"/>
+			<metrics:count type="x-PunctuationOnlyTextUnitCount" value="0"/>
+			<metrics:count type="x-ExactMatchedTextUnitCount" value="0"/>
+			<metrics:count type="x-LeveragedMatchedTextUnitCount" value="0"/>
+			<metrics:count type="RepetitionMatchedTextUnitCount" value="5"/>
+			<metrics:count type="RepetitionMatchedTextUnitCount" value="0" category="95-99"/>
+			<metrics:count type="RepetitionMatchedTextUnitCount" value="0" category="85-94"/>
+			<metrics:count type="RepetitionMatchedTextUnitCount" value="0" category="75-84"/>
+			<metrics:count type="x-FuzzyMatchedTextUnitCount" value="3" category="95-99"/>
+			<metrics:count type="x-FuzzyMatchedTextUnitCount" value="3" category="85-94"/>
+			<metrics:count type="x-FuzzyMatchedTextUnitCount" value="19" category="75-84"/>
+			<metrics:count type="x-RealTextUnitCount" value="158"/>
+		</metrics:count-group>
+	</metrics:stage>
+	<metrics:stage phase="translation" date="20141113T024142Z">
+		<metrics:count-group name="verifiable">
+			<metrics:count type="x-UnitsDone" value="0"/>
+			<metrics:count type="x-WordsDone" value="0"/>
+			<metrics:count type="x-CharactersDone" value="0"/>
+		</metrics:count-group>
+	</metrics:stage>
+</metrics:metrics>

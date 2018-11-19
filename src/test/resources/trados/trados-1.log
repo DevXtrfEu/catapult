@@ -1,0 +1,45 @@
+Start Analyse: Wed Sep 07 15:56:47 2005
+
+Translation Memory: J:\OPERATIONS\Projects test\_Client\ClinPhone\TMs\Polish\clinphone en-polish.tmw
+
+\\scratchy\vol3\OPERATIONS\Projects test\Jobs\ClinPhone\Projects\UP321266 - SVR022\Source\Processed source\Polish\SVR022 QUICK REFERENCE GUIDE_Pharmacist_v4.xml.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ XTranslated        43          128      15          0
+ Repetitions         2           11       1          0
+ 100%               36           77       9          0
+ 95% - 99%           5           30       3          0
+ 85% - 94%           6           74       8          0
+ 75% - 84%           1           29       3          0
+ 50% - 74%           3           10       1          0
+ No Match           43          512      60          0
+ Total             139          871     100          0
+
+ Chars/Word       5.12
+ Chars Total     4,464
+
+
+
+Analyse Total (1 file):
+
+ Match Types  Segments        Words Percent Placeables
+ XTranslated        43          128      15          0
+ Repetitions         2           11       1          0
+ 100%               36           77       9          0
+ 95% - 99%           5           30       3          0
+ 85% - 94%           6           74       8          0
+ 75% - 84%           1           29       3          0
+ 50% - 74%           3           10       1          0
+ No Match           43          512      60          0
+ Total             139          871     100          0
+
+ Chars/Word       5.12
+ Chars Total     4,464
+
+
+
+Analyse finished successfully without errors!
+
+Wed Sep 07 15:56:53 2005
+================================================================================
+

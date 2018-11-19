@@ -1,0 +1,798 @@
+<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:XmlReporting="urn:XmlReporting">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-16"><LINK href="file:///C:\Program Files\SDL\SDL Trados Studio\Studio1\ReportResources\css\reports.css" type="text/css" rel="stylesheet"><script language="JavaScript">
+					
+						function OpenFile(guid)
+						{
+							if (window.external)
+							{
+								try
+								{
+									window.external.OpenFile(guid); 
+								}
+								catch (e)
+								{
+									document.getElementById(guid).click();
+								}
+							}
+							else
+							{
+								document.getElementById(guid).click();
+							}
+						}
+						
+						function Switch(fileguid, showhide)
+						{
+							if (showhide == "hide")
+							{
+								document.getElementById(fileguid + "_plus").style.display="";
+								document.getElementById(fileguid + "_minus").style.display="none";							
+								document.getElementById(fileguid + "_files").style.display="none";
+							}
+							else
+							{
+								document.getElementById(fileguid + "_plus").style.display="none";
+								document.getElementById(fileguid + "_minus").style.display="";							
+								document.getElementById(fileguid + "_files").style.display="";
+							}
+						}
+					
+						
+					</script></head>
+  <body>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="100%">
+          <h1>Analyze Files Report</h1>
+        </td>
+        <td valign="top"><img src="file:///C:\Program Files\SDL\SDL Trados Studio\Studio1\ReportResources\images/StudioPower.jpg&#xD;&#xA;								"></td>
+      </tr>
+    </table>
+    <h2 class="first">Summary</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Task:</td>
+        <td class="InfoData">Analyze Files</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Project:</td>
+        <td class="InfoData">GO_Blonde</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Customer:</td>
+        <td class="InfoData">UVB
+									 (laura@uvb.lv)
+								</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Translation Providers:</td>
+        <td class="InfoData">TM_local_UVB_LV_RU.sdltm</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Language:</td>
+        <td class="InfoData">Russian (Russia)</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Files:</td>
+        <td class="InfoData">6</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Created At:</td>
+        <td class="InfoData">18.03.2010. 16:51:35</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Task Duration:</td>
+        <td class="InfoData">11 seconds</td>
+      </tr>
+    </table>
+    <h2 class="first">Settings</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Report Cross-file Repetitions:</td>
+        <td class="InfoData">Yes</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Report Internal Fuzzy Match Leverage:</td>
+        <td class="InfoData">No</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Minimum Match Value:</td>
+        <td class="InfoData">70%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Search Mode:</td>
+        <td class="InfoData">Use best matches from all translation sources.</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Missing Formatting Penalty:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Different Formatting Penalty:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Multiple Translations Penalty:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Auto-localization Penalty:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Text Replacement Penalty:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+    </table>
+    <h2>Totals</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Total</th>
+        <th class="TypeHead">Type</th>
+        <th class="Unit">Segments</th>
+        <th class="Unit">Words</th>
+        <th class="Unit">Characters</th>
+        <th class="Unit">Percent</th>
+        <th class="Unit">Placeables</th>
+        <th class="Unit">Tags</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Files:6</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="9" align="left" valign="top">Chars/Word:6.51</th>
+        <th class="Header">Repetitions</th>
+        <td>3</td>
+        <td>3</td>
+        <td>54</td>
+        <td>0.44%</td>
+        <td>2</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>3</td>
+        <td>3</td>
+        <td>70</td>
+        <td>0.44%</td>
+        <td>3</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">New</th>
+        <td>101</td>
+        <td>683</td>
+        <td>4359</td>
+        <td>99.13%</td>
+        <td>95</td>
+        <td>48</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">107</td>
+        <td class="Total">689</td>
+        <td class="Total">4483</td>
+        <td class="Total">100%</td>
+        <td class="Total">100</td>
+        <td class="Total">48</td>
+      </tr>
+    </table>
+    <h2>File Details</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">File</th>
+        <th class="TypeHead">Type</th>
+        <th class="Unit">Segments</th>
+        <th class="Unit">Words</th>
+        <th class="Unit">Characters</th>
+        <th class="Unit">Percent</th>
+        <th class="Unit">Placeables</th>
+        <th class="Unit">Tags</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Lai kļūtu par aktīvo biedri.doc</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="9" align="left" valign="top">Chars/Word:6.51</th>
+        <th class="Header">Repetitions</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">New</th>
+        <td>15</td>
+        <td>144</td>
+        <td>937</td>
+        <td>100.00%</td>
+        <td>13</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">15</td>
+        <td class="Total">144</td>
+        <td class="Total">937</td>
+        <td class="Total">100%</td>
+        <td class="Total">13</td>
+        <td class="Total">6</td>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Merilina Monro.doc</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="9" align="left" valign="top">Chars/Word:6.03</th>
+        <th class="Header">Repetitions</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">New</th>
+        <td>11</td>
+        <td>73</td>
+        <td>440</td>
+        <td>100.00%</td>
+        <td>8</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">11</td>
+        <td class="Total">73</td>
+        <td class="Total">440</td>
+        <td class="Total">100%</td>
+        <td class="Total">8</td>
+        <td class="Total">0</td>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Nolikums.doc</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="9" align="left" valign="top">Chars/Word:6.30</th>
+        <th class="Header">Repetitions</th>
+        <td>3</td>
+        <td>3</td>
+        <td>54</td>
+        <td>0.98%</td>
+        <td>2</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">New</th>
+        <td>42</td>
+        <td>302</td>
+        <td>1869</td>
+        <td>99.02%</td>
+        <td>38</td>
+        <td>18</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">45</td>
+        <td class="Total">305</td>
+        <td class="Total">1923</td>
+        <td class="Total">100%</td>
+        <td class="Total">40</td>
+        <td class="Total">18</td>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">PIETEIKUMA ANKETA_Manro konkursam.doc</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="9" align="left" valign="top">Chars/Word:7.77</th>
+        <th class="Header">Repetitions</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>1</td>
+        <td>1</td>
+        <td>24</td>
+        <td>3.23%</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">New</th>
+        <td>11</td>
+        <td>30</td>
+        <td>217</td>
+        <td>96.77%</td>
+        <td>8</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">12</td>
+        <td class="Total">31</td>
+        <td class="Total">241</td>
+        <td class="Total">100%</td>
+        <td class="Total">9</td>
+        <td class="Total">8</td>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Pink party.doc</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="9" align="left" valign="top">Chars/Word:6.30</th>
+        <th class="Header">Repetitions</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">New</th>
+        <td>13</td>
+        <td>44</td>
+        <td>277</td>
+        <td>100.00%</td>
+        <td>4</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">13</td>
+        <td class="Total">44</td>
+        <td class="Total">277</td>
+        <td class="Total">100%</td>
+        <td class="Total">4</td>
+        <td class="Total">0</td>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">rekl.doc</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="9" align="left" valign="top">Chars/Word:7.23</th>
+        <th class="Header">Repetitions</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Context Match</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>2</td>
+        <td>2</td>
+        <td>46</td>
+        <td>2.17%</td>
+        <td>2</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">New</th>
+        <td>9</td>
+        <td>90</td>
+        <td>619</td>
+        <td>97.83%</td>
+        <td>24</td>
+        <td>16</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">11</td>
+        <td class="Total">92</td>
+        <td class="Total">665</td>
+        <td class="Total">100%</td>
+        <td class="Total">26</td>
+        <td class="Total">16</td>
+      </tr>
+    </table>
+  </body>
+</html>

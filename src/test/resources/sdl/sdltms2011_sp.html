@@ -1,0 +1,447 @@
+﻿<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:XmlReporting="urn:XmlReporting">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8"><LINK href="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio2\ReportResources\css\reports.css" type="text/css" rel="stylesheet"><script language="JavaScript">
+					
+						function OpenFile(guid)
+						{
+							if (window.external)
+							{
+								try
+								{
+									window.external.OpenFile(guid); 
+								}
+								catch (e)
+								{
+									document.getElementById(guid).click();
+								}
+							}
+							else
+							{
+								document.getElementById(guid).click();
+							}
+						}
+						
+						function Switch(fileguid, showhide)
+						{
+							if (showhide == "hide")
+							{
+								document.getElementById(fileguid + "_plus").style.display="";
+								document.getElementById(fileguid + "_minus").style.display="none";							
+								document.getElementById(fileguid + "_files").style.display="none";
+							}
+							else
+							{
+								document.getElementById(fileguid + "_plus").style.display="none";
+								document.getElementById(fileguid + "_minus").style.display="";							
+								document.getElementById(fileguid + "_files").style.display="";
+							}
+						}
+					
+						
+					</script></head>
+  <body>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="100%">
+          <h1>Informe de análisis de archivos</h1>
+        </td>
+        <td valign="top"><img src="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio2\ReportResources\images/StudioPower.jpg&#xD;&#xA;								"></td>
+      </tr>
+    </table>
+    <h2 class="first">Resumen</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Tarea:</td>
+        <td class="InfoData">Analizar archivos</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Proyecto:</td>
+        <td class="InfoData">5480</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Idioma:</td>
+        <td class="InfoData">English (United States)</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Archivos:</td>
+        <td class="InfoData">2</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Creado:</td>
+        <td class="InfoData">2013-11-22 20:18:19</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Duración de la tarea:</td>
+        <td class="InfoData">2 minutes, 13 seconds</td>
+      </tr>
+    </table>
+    <h2 class="first">Configuración</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">Informar de las repeticiones entre archivos:</td>
+        <td class="InfoData">Sí</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Informar del aprovechamiento de coincidencias parciales internas:</td>
+        <td class="InfoData">No</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Valor mínimo de coincidencia:</td>
+        <td class="InfoData">70%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Modo de búsqueda:</td>
+        <td class="InfoData">Utilizar la mejor coincidencia de todos los orígenes de traducción.</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por falta de formato:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por diferencias de formato:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por varias traducciones:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por localización automática:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">Penalización por reemplazo de texto:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+    </table>
+    <h2>Totales</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Total</th>
+        <th class="TypeHead">Tipo</th>
+        <th class="Unit">Segmentos</th>
+        <th class="Unit">Palabras</th>
+        <th class="Unit">Caracteres</th>
+        <th class="Unit">Porcentaje</th>
+        <th class="Unit">Transferibles</th>
+        <th class="Unit">Etiquetas</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Archivos:2</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="10" align="left" valign="top">Caracteres/palabra:5.39</th>
+        <th class="Header">Coincidencia de contexto</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Repeticiones</th>
+        <td>4056</td>
+        <td>32188</td>
+        <td>171410</td>
+        <td>50.32%</td>
+        <td>3228</td>
+        <td>818</td>
+      </tr>
+      <tr>
+        <th class="Header">Repeticiones entre archivos</th>
+        <td>77</td>
+        <td>16</td>
+        <td>83</td>
+        <td>0.03%</td>
+        <td>74</td>
+        <td>74</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Nuevos</th>
+        <td>3018</td>
+        <td>31758</td>
+        <td>173032</td>
+        <td>49.65%</td>
+        <td>2466</td>
+        <td>836</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">7151</td>
+        <td class="Total">63962</td>
+        <td class="Total">344525</td>
+        <td class="Total">100%</td>
+        <td class="Total">5768</td>
+        <td class="Total">1728</td>
+      </tr>
+    </table>
+    <h2>Detalles del archivo</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">Archivo</th>
+        <th class="TypeHead">Tipo</th>
+        <th class="Unit">Segmentos</th>
+        <th class="Unit">Palabras</th>
+        <th class="Unit">Caracteres</th>
+        <th class="Unit">Porcentaje</th>
+        <th class="Unit">Transferibles</th>
+        <th class="Unit">Etiquetas</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Produkter-anno-2013-11-13-translate.xml_eng-US.xlf.sdlxliff</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="10" align="left" valign="top">Caracteres/palabra:5.39</th>
+        <th class="Header">Coincidencia de contexto</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Repeticiones</th>
+        <td>4007</td>
+        <td>32114</td>
+        <td>170850</td>
+        <td>54.01%</td>
+        <td>3193</td>
+        <td>783</td>
+      </tr>
+      <tr>
+        <th class="Header">Repeticiones entre archivos</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Nuevos</th>
+        <td>2707</td>
+        <td>27345</td>
+        <td>149680</td>
+        <td>45.99%</td>
+        <td>2285</td>
+        <td>710</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">6714</td>
+        <td class="Total">59459</td>
+        <td class="Total">320530</td>
+        <td class="Total">100%</td>
+        <td class="Total">5478</td>
+        <td class="Total">1493</td>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">Produktkategorier-anno-2013-11-13-translate.xml_eng-US.xlf.sdlxliff</th>
+        <th class="Header">PerfectMatch</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="10" align="left" valign="top">Caracteres/palabra:5.33</th>
+        <th class="Header">Coincidencia de contexto</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Repeticiones</th>
+        <td>49</td>
+        <td>74</td>
+        <td>560</td>
+        <td>1.64%</td>
+        <td>35</td>
+        <td>35</td>
+      </tr>
+      <tr>
+        <th class="Header">Repeticiones entre archivos</th>
+        <td>77</td>
+        <td>16</td>
+        <td>83</td>
+        <td>0.36%</td>
+        <td>74</td>
+        <td>74</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">Nuevos</th>
+        <td>311</td>
+        <td>4413</td>
+        <td>23352</td>
+        <td>98.00%</td>
+        <td>181</td>
+        <td>126</td>
+      </tr>
+      <tr>
+        <th class="Total">Total</th>
+        <td class="Total">437</td>
+        <td class="Total">4503</td>
+        <td class="Total">23995</td>
+        <td class="Total">100%</td>
+        <td class="Total">290</td>
+        <td class="Total">235</td>
+      </tr>
+    </table>
+  </body>
+</html>

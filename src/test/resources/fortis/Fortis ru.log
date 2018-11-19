@@ -1,0 +1,788 @@
+Fortis Version: 4.0.5534
+
+*** Processed files ***
+   1. DDI5202.doc
+
+*** Summary Statistics ***
+Total Statistics:
+                *	Segments	Wo
+                rds	Characters	Tags
+    Pretranslated	     263	 4224	     22417	 454
+ Part. Translated	      44	  998	      4934	 136
+   Not Translated	     172	 4170	     20701	 934
+            Total	     479	 9392	     48052	1524
+Fuzzy Match [70%]	      81	 1911	      9680	 377
+
+*** Repetition Statistics ***
+Repetition statistics are for segments without any match in translation memory (full, partial or fuzzy).
+Repetition Statistics:
+                          *	Segments	Words	Characters	Tags
+   Distinct Full Repetition	       3	   90	       422	   3
+ Cumulative Full Repetition	       6	  180	       844	   6
+  Distinct Full+Partial Rep	       5	  118	       561	   0
+Cumulative Full+Partial Rep	      10	  236	      1122	   0
+
+*** Fuzzy Match Histogram ***
+ 99-96  95-91  90-86  85-81  80-76  75-71 
+   432    334    293    141    262    331 DDI5202.doc
+   432    334    293    141    262    331 TOTAL
+
+*** Statistics Per File ***
+Statistics DDI5202.doc:
+               *	Segments	Words	Characters	Tags
+   Pretranslated	     263	 4224	     22417	 454
+Part. Translated	      44	  998	      4934	 136
+  Not Translated	     172	 4170	     20701	 934
+           Total	     479	 9392	     48052	1524
+     Fuzzy Match	      81	 1911	      9680	 377
+
+*** Reference Files ***
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Bio\JNJ122173\MCP5197_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Bio\JNJ122199\CEN5269_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ111070\JDC5065_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ111082\MAB5008_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ111086\CDS5039_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112106\PRD3021_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112106\PRD3021_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112106\PRD3021_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112106\PRD3021_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112119\PPC5324_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112122\JBP5048_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112127\ALZ5310_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112127\ALZ5310_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112127\ALZ5310_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112134\PRD3036_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112146\CEN5240_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112152\JDC5066_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112152\JDC5066_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112152\JDC5066_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112158\AmendedClaims_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112158\Missing Callouts_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112158\PRD3040_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112158\PRD3040_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112158\PRD3040_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112170\CEN5245_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112170\CEN5245_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112170\CEN5245_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112170\CEN5245_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112171\CEN5246_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112185\JDC5073_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112186\JDC5074_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112191\PRD3052 part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112191\PRD3052 part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112191\PRD3052 part 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112191\PRD3052 part 4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112192\ETH5433_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112193\JBP5050_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112206\J&J5344_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112289\PRD3030_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112289\PRD3030_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112289\PRD3030_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112289\PRD3030_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ112289\PRD3030_Part_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113246\VTN5247_no tables_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113246\VTN5247_no tables_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113248\CEN5250_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113250\PRD3072_Part_10-1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113250\PRD3072_Part_10-2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113250\PRD3072_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113250\PRD3072_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113250\PRD3072_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113250\PRD3072_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113250\PRD3072_Part_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113250\PRD3072_Part_6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113250\PRD3072_Part_7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113250\PRD3072_Part_8_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ113250\PRD3072_Part_9_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\JNJ114338 Part 10_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\JNJ114338 Part 11_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\JNJ114338 Part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\JNJ114338 Part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\JNJ114338 Part 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\JNJ114338 Part 4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\JNJ114338 Part 5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\JNJ114338 Part 6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\JNJ114338 Part 7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\JNJ114338 Part 8_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\JNJ114338 Part 9_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\OLDER REPS\IntReps8 - 10_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\OLDER REPS\IntReps8 - 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\OLDER REPS\IntReps8 - 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\OLDER REPS\IntReps8 - 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\OLDER REPS\IntReps8 - 4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\OLDER REPS\IntReps8 - 5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\OLDER REPS\IntReps8 - 6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\OLDER REPS\IntReps8 - 7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\OLDER REPS\IntReps8 - 8_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\OLDER REPS\IntReps8 - 9_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\OLDER REPS\IntReps8 - 9_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114338\OLDER REPS\IntReps8 - 9_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 10_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 11_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 12_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 13_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 14_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 15_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 8_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114339\PRD3085.1 Part 9_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\Copy of PRD3085.2 Part 4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\Copy of PRD3085.2 Part 5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\Copy of PRD3085.2 Part 6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\Copy of PRD3085.2 Part 7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 10_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 11_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 12_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 13_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 14_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 15_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 8_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2 Part 9_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114340\PRD3085.2_add part_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 10_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 11_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 12_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 13_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 14_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 15_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 8_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114341\PRD3085.3 Part 9_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 10_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 11_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 12_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 13_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 14_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 15_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 8_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114342\PRD3085.4 Part 9_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 10_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 11_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 12_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 13_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 14_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 15_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 8_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114343\PRD3085.5 Part 9_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 10_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 11_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 12_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 13_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 14_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 15_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 5-6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 8_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114344\PRD3085.6 Part 9_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 10_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 11_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 12_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 13_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 14_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 15_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 8_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114345\PRD3085.7 Part 9_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114346\IntReps 2x5 - 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114346\IntReps 2x5 - 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114346\PRD3087 Part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114346\PRD3087 Part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114347\PRD3088 Part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114347\PRD3088 Part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114353\ONG5001_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114374\JCO5010_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114375\JCO5010.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114376\JCO5010.2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114377\JCO5010.3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114382\JCO5016_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114389\ETH5411_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114403\PRD3097_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ114403\PRD3097_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ121018\ETH5574-AMENDED CLAIMS_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ121018\ETH5574_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ121018\ETH5574_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ121028\PRD3106 Part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ121028\PRD3106 Part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ122099\PRD3117_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ122109\PRD3113 pt 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ122109\PRD3113 pt 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ122135\CEN5276_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ122135\CEN5276_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ122135\CEN5276_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ122135\CEN5276_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ122185\PPC5333_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ122186\PPC5334_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ122209\JCO5028_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ123271\PRD3009_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ123271\PRD3009_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ123318\JCO5037_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ123321\JCO5034_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ123322\JCO5033_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ123348\DDI5199_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ124371\CEN5292_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ124372\PRD3149_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ124398\CEN5297_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ124398\CEN5297_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ124423\JCO5050_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ124423\JCO5050_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ124423\JCO5050_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ124424\JCO5050.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ124443\J&J5464_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ124444\VTN5300_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ124453\DDI5200_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Chemical\JNJ131009\CIL5005_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ121016\PPC5360_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ121019\PPC5367_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ121020\PPC5368_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ121021\PPC5369_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ121025\PPC5366_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ121026\PPC5370_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ121027\PPC5371_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ121044\DDI5222 spec_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ122203\PPC5372_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ123240\MCP5220_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ123243\MCP5223_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ123245\MCP5221_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\DP\JNJ131034\DDI5227_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\GE\JNJ124433\JBP5050.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\General\PPC5332CIP1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\General\JNJ124417\PPC5332CIP2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\GM\JNJ124432\JBP5050_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112116\PPC5322_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112117\PPC5323_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112133\BIO5250_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112135\VTN5234_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112136\JBP5049_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112137\J&J5443_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112138\J&J5443.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112142\CEN5233_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112143\CEN5244 - no tables_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112146\CEN5240_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112147\ETH5398_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112153\JDC5068_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112157\END6757_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112163\ETH5399_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112167\END6429_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112173\CRD5483_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112173\CRD5483_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112173\CRD5483_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112181\CDS5095_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112182\ACC5002_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112182\ACC5002_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112182\ACC5002_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112182\ACC5002_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112182\ACC5002_Part_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112183\ACC5008_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112194\ACC5025_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112196\ETH5418_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112211\GLO5001_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112212\GLO5002_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ112213\GLO5003_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113237\END6319_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113237\END6319_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113237\END6319_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113237\END6319_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113239\END6417_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113239\END6417_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113239\END6417_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113239\END6417_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113240\END6569_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113240\END6569_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113240\END6569_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113240\END6569_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113240\END6569_Part_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113241\END6570_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113241\END6570_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113241\END6570_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113241\END6570_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113243\END6547_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113245\END6549_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113249\J&J5450_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113249\J&J5450_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113251\J&J5450.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113253\J&J5457_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113253\J&J5457_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113254\J&J5457.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113255\J&J5457.2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113259\VTN5248_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113281\ACC5028_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113281\ACC5028_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113282\JCO5021_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113283\JCO5021.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113286\MCP5183_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113296\J&J5379_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113296\J&J5379_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113296\J&J5379_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113296\J&J5379_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113319\VTN5250_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ113321\VTN5251_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114336\PPC5351_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114357\J&J5386_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114358\CEN5242.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114358\CEN5242.1_Seq List_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114384\END6675_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114395\ETH5565_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114397\BIO5283_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114397\BIO5283_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114406\PRD3098_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114406\PRD3098_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114407\BIO5294_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114416\CEN5251_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114416\CEN5251_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114416\CEN5251_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114416\CEN5251_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114417\CEN5258_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114425\END6816_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114426\END6817_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114427\END6818_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114428\END6828_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114429\END6999_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114430\END7000_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114434\ETH1690_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114434\ETH1690_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114436\DDI5183_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114436\DDI5183_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114436\DDI5183_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114438\LFS5205_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114438\LFS5205_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114438\LFS5205_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114438\LFS5205_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114446\PRD3082_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114446\PRD3082_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114446\PRD3082_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ114446\PRD3082_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121001\ACC5010_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121001\ACC5010_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121007\JDC5058_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121007\JDC5058_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121007\JDC5058_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121007\JDC5058_Part_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121009\JDC5058.2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121010\JDC5058.3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121012\END6366_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121012\END6366_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121012\END6366_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121012\END6366_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121012\END6366_Part_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121032\DEP6220_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121032\DEP6220_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121032\DEP6220_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121040\DDI5191_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121040\DDI5191_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121040\DDI5191_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121055\DEP6258_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121055\DEP6258_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121055\DEP6258_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121055\DEP6258_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121057\ETH5578_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121057\ETH5578_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121062\END6612_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121062\END6612_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121062\END6612_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121063\END6612.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ121081\DDI5190_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122094\END6631_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122094\END6631_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122094\END6631_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122094\END6631_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122094\END6631_Part_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122094\END6631_Part_6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122094\END6631_Part_7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122094\END6631_Part_8_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122095\END6631.1_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122095\END6631.1_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122095\END6631.1_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122101\CEN5270_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122101\CEN5270_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122144\END6610_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122144\END6610_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122146\ETH5449_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122147\ETH5450_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122148\ETH5450_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122149\END6604_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122150\END6544_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122151\JJ5434_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122151\JJ5434_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122157\END6611_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122167\END6319_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122167\END6319_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122168\END6320_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122169\END6615_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122170\END6616_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122171\END6617_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122172\END6618_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122174\JDC5059_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122211\PPC5362_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122216\END6605_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122216\END6605_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122216\END6605_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122217\END5517_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122221\BIO5276_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122221\BIO5276_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122221\BIO5276_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122221\BIO5276_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122221\BIO5276_Part_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ122221\BIO5276_Part_6_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ123239\LFS5211_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ123303\PPC5364_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ123305\PPC5358_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ124387\ETH5601_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ124393\DDI5198_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ124405\PPC5363_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ124411\JDC5071_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ124422\CIL5001_Amended claim_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ124422\CIL5001_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ124441\JDC5072_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Mechanical\JNJ124446\BIO5338_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ111093\ASP5072_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ111094\ASP5073_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ111095\ASP5074_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ112128\BIO5216_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ112155\CEN5242_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ112155\CEN5242_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ112155\CEN5242_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ112155\CEN5242_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ112155\CEN5242_Part_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ121017\CDS5097_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ121017\CDS5097_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ121017\CDS5097_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ121034\JCO5021_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ121034\JCO5021_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ121035\JCO5022_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ121036\ETH5566_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ121036\ETH5566_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ121036\ETH5566_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ121047\J&J5425_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ121047\J&J5425_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ121082\ETH5573_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122119\ETH5564_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122125\PRD3124_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122127\PRD3125_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122127\PRD3125_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122128\PRD3126_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122129\PRD3127_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122137\CRD5478_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122142\PRD3040WO1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122153\END6544CIP7_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122154\END6544CIP8_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122177\END6663_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122178\CEN5279_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122189\PPC5343_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122205\CEN5280_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122207\ACC5029_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122212\ACC5004_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ122218\ACC5007_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ123244\ETH5594_part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ123244\ETH5594_part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ123256\PPC5345-REVISED CLAIMS_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ123256\PPC5345_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ123280\DDI5194_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ123281\DDI5195_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ123282\DDI5196_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ123326\ANM5245_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ124379\CEN5293_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ124389\BIO5339_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ124391\CDS5106_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ124407\ETH5598_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ124412\ETH5709_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ124412\ETH5709_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ124412\ETH5709_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ124439\BIO5340_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ124439\BIO5340_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ124440\JDC5069_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ124441\JDC5072_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Medical\JNJ124442\JDC5070_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Other\JNJ112126\JDC5061_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Other\JNJ112150\PPCT5325_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Other\JNJ112151\PPC5326_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Other\JNJ124377\ETH5710 EPO_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Other\JNJ124377\ETH5710_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Other\JNJ124377\ETH5710_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Other\JNJ124377\ETH5710_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Other\JNJ124377\ETH5710_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Other\JNJ124377\ETH5710_Part_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ111096\PRD3019_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ114435\MCP5185_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ121066\MCP5194_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ121066\MCP5194_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ121067\MCP5194.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ121068\MCP5194.3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ121069\MCP5194.4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122130\PRD3120_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122130\PRD3120_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122131\PRD3121_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122131\PRD3121_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122131\PRD3121_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122131\PRD3121_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122132\PRD3122_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122132\PRD3122_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122132\PRD3122_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122133\PRD3129_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122143\MCP5187_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122158\JCO5025_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122159\JCO5026_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ122160\JCO5027_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Pharmaceutical\JNJ124385\PRD3150_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ112148\VTN5235_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ112149\VTN5235.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ113227\VTN5194_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ113227\VTN5194_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ113227\VTN5194_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ113227\VTN5194_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ113228\VTN5244_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ113252\VNT5249_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ113252\VNT5249_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ113252\VNT5249_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ113252\VNT5249_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ114433\VTN5255_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ121008\JDC5058.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ121011\VTN5257_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ121011\VTN5257_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ121038\VTN5260_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ121038\VTN5260_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ122105\VTN5265_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ122152\VTN5181WO1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ122180\VTN5270_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ122180\VTN5270_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ122194\VTN5274_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ122195\VTN5276_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ122196\VTN5277_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ122198\VTN5272_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ122201\VTN5273_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ122202\VTN5275_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ123255\VTN5282_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ123301\VTN5321.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ123327\VTN5205_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ123327\VTN5205_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ123339\SPC5341_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124365\VTN5290_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124373\VTN5291_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124394\VTN5293_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124395\VTN5294_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124396\assoref_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124396\VTN5294.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124397\VTN5294 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124402\assoref_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124402\VTN375_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124447\VTN5379 1_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124447\VTN5379 1_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124448\VTN5297_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124451\VTN5298_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124469\VTN5383_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\Vision\JNJ124469\VTN5383_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\bio\CEN5223_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\bio\JNJ104402\CEN5222_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\bio\JNJ104404\PRD2979_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ101050\PRD2877 part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ101050\PRD2877 part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ101050\PRD2877 part 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ101080\MCP5157_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ101090\VTN5198_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ102136\PRD2906_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ102137\PRD2907_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ102165\LFS5177_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103224\CRD5426CIP1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103240\JDC5052_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103241\JDC5053_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103242\JDC5054_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103256\ETH5378_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103264\CEN5214_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103282\J&J5423_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103287\J&J5426_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103289\JNJ5417_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103289\JNJ5417_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103289\JNJ5417_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103292\J&J5419_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103293\PPC5336_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103298\J&J5428_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103299\J&J5429_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103312\PRD2962_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103312\PRD2962_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103312\PRD2962_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103312\PRD2962_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103312\PRD2962_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ103312-reps\repetitions_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104316\1_CEN5217 - no tables_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104316\2_CEN5217 - no tables_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104316\3_CEN5217 - no tables_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104316\4_CEN5217 - no tables_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104316\5_CEN5217 - no tables_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104316-reps\REPS_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104320-reps\REPS_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104363\ASP5070_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104393\PPC5340_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104394\PPC5341_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104395\PPC5342_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104410\JBP5047_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ104447\PRD2988_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ111033\J&J5441_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\chem\JNJ111069\JDC5064_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\design\JNJ102219\MAB5012DP_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\design\JNJ103268\J&J5456DP_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\design\JNJ104371\J&J5449_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\design\JNJ1044012\JDC5067_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ101068\PPC5285_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ102135\VTN5200_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ102142\J&J5378_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ102145\MCP5155_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ102175\CRD5474_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ102181\ppc5289FF_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ102215\ETH5318_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ102216\ETH5319_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ102217\PPC5330_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103225\END6379_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103226\END6380_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103230\END6381_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103231\END6382_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103246\J&J5336_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103252\JDC5056_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103255\VTN5209_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103259\PPC5332_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103274\J&J5424_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103285\PRD2791_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103290\J&J5432_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103305\PPC5335_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103306\PPC5338_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103313\PPC5330.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ103314\PPC5331.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104321\CRD5477_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104326\MCP5164_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104341\END6256_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104342\END6256.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104343\END6286_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104344\END6287_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104345\END6288_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104346\END6289_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104347\END6292_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104348\END6293_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104349\END6294_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104350\END6295_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104351\END6296_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104352\END6297_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104356\END6329_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104357\END6300_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104376\ETH5388_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104378\END6404_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104387\END6260_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104388\END6261_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104392\JDC5060_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104399\BIO5211_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104400\BIO5230_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104401\BIO5237_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104413\PPC5337 - no tables_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104414\PPC5337.1 - no tables_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104424\83529.0029_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104425\83529.0064_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104426\83529.0055_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ104455\END6179_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111010\END6323_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111011\END6323.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111012\END6323.2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111013\END6323.3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111020\ETH5395_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111021\ETH5396_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111042\JDC5040_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111044\J&J5313_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111052\CEN5230_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111059\MCP5176_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111067\ACC5002.2_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111067\ACC5002.2_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\mech\JNJ111067\ACC5002.2_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ101067\J&J5364_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ102143\VTN5186_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ102147\CRD5472_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ102158\CDS5037_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ102197\PRD2901_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ102212\ACC5011_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ102213\CDS5071_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ102214\CDS5073_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ103256\ETH5378_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ103286\PRD2792_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ104353\END6298_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ104415\END5953.1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ104439\CEN5224 - no tables_Part_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ104439\CEN5224 - no tables_Part_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ104439\CEN5224 - no tables_Part_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ104439\CEN5224 - no tables_Part_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ104439\CEN5224 - no tables_Part_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ104440\Part_1_ru\CEN5227 - no tables_1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ104440\Part_2_ru\CEN5227 - no tables_2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ104440\Part_3_ru\CEN5227 - no tables_3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ104440\Part_4_ru\CEN5227 - no tables_4_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ104440\Part_5_ru\CEN5227 - no tables_5_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\medical\JNJ111043\CEN5229_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\pharm\JNJ102139\1-NOTE RE ADDL CLAIMS_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\pharm\JNJ102139\MCP5158_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\pharm\JNJ102156\PRD2893_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\pharm\JNJ104354\PRD2971 - part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\pharm\JNJ104354\PRD2971 - part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\pharm\JNJ104354\PRD2971 - part 3_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\pharm\JNJ104354\Reps_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\pharm\JNJ104403\PRD2978 - Part 1_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\pharm\JNJ104403\PRD2978 - Part 2_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\pharm\JNJ104403\PRD2978 - Part 3 - no tables_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\pharm\JNJ104432\MCP5167_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\pharm\JNJ111014\PRD2999_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ101074\VTN5197_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ102208\VTN5206_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ103249\VTN5207_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ103255\VTN5209_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ103263\VTN5210_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ103277\VTN5213_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ103278\VTN5216_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ103279\VTN5214_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ103283\VTN5215_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ104385\VTN5217_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ104445\VTN5222_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ104449\VTN5224_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ111031\VTN5226_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ111061\VTN5228_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ111062\VTN5230_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ111063\VTN5231_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ111064\VTN5232_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ111068\VTN5227_en.fff
+  R:\Apatosaurus_Reference\JNJ\ru-ru\_Combined\Reference Memory\vision\JNJ111080\VTN5233_en.fff
+

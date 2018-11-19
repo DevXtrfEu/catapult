@@ -1,0 +1,448 @@
+﻿<html xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:XmlReporting="urn:XmlReporting">
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8"><LINK href="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio3\ReportResources\css\reports.css" type="text/css" rel="stylesheet"><script language="JavaScript">
+					
+						function OpenFile(guid)
+						{
+							if (window.external)
+							{
+								try
+								{
+									window.external.OpenFile(guid); 
+								}
+								catch (e)
+								{
+									document.getElementById(guid).click();
+								}
+							}
+							else
+							{
+								document.getElementById(guid).click();
+							}
+						}
+						
+						function Switch(fileguid, showhide)
+						{
+							if (showhide == "hide")
+							{
+								document.getElementById(fileguid + "_plus").style.display="";
+								document.getElementById(fileguid + "_minus").style.display="none";							
+								document.getElementById(fileguid + "_files").style.display="none";
+							}
+							else
+							{
+								document.getElementById(fileguid + "_plus").style.display="none";
+								document.getElementById(fileguid + "_minus").style.display="";							
+								document.getElementById(fileguid + "_files").style.display="";
+							}
+						}
+					
+						
+					</script></head>
+  <body>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="100%">
+          <h1>ファイルの解析レポート</h1>
+        </td>
+        <td valign="top"><img src="file:///C:\Program Files (x86)\SDL\SDL Trados Studio\Studio3\ReportResources\images/StudioPower.jpg&#xD;&#xA;                "></td>
+      </tr>
+    </table>
+    <h2 class="first">概要</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">タスク:</td>
+        <td class="InfoData">ファイルの解析</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">プロジェクト:</td>
+        <td class="InfoData">[EN-US]-[PL] XTRF-TEST-1-1401278000042</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">締め切り日:</td>
+        <td class="InfoData">2015-05-28 00:00:00</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">言語:</td>
+        <td class="InfoData">Polish (Poland)</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">ファイル:</td>
+        <td class="InfoData">1</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">作成日時:</td>
+        <td class="InfoData">2014-08-01 10:34:24</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">タスク時間:</td>
+        <td class="InfoData">1 seconds</td>
+      </tr>
+    </table>
+    <h2 class="first">設定</h2>
+    <table class="InfoList" width="100%" border="0" cellpadding="0" cellspacing="2">
+      <tr>
+        <td class="InfoItem">ファイル間の繰り返しのレポート:</td>
+        <td class="InfoData">はい</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">内部あいまい一致の活用のレポート:</td>
+        <td class="InfoData">はい</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">ロックされた分節をレポート: </td>
+        <td class="InfoData">はい</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">一致精度最小値:</td>
+        <td class="InfoData">70%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">検索モード:</td>
+        <td class="InfoData">すべての翻訳ソースから最適な一致文を使用します。</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">書式の欠落によるペナルティ:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">異なる書式によるペナルティ:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">複数の訳文によるペナルティ:</td>
+        <td class="InfoData">1%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">自動ローカリゼーションによるペナルティ:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+      <tr>
+        <td class="InfoItem">テキスト置換によるペナルティ:</td>
+        <td class="InfoData">0%</td>
+      </tr>
+    </table>
+    <h2>総計</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">合計</th>
+        <th class="TypeHead">種類</th>
+        <th class="Unit">分節</th>
+        <th class="Unit">単語数</th>
+        <th class="Unit">文字数</th>
+        <th class="Unit">パーセント</th>
+        <th class="Unit">認識済みトークン</th>
+        <th class="Unit">タグ</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">ファイル:1</th>
+        <th class="Header">ロック済み </th>
+        <td>1</td>
+        <td>2</td>
+        <td>5</td>
+        <td>50.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="16" align="left" valign="top">文字数/単語数:3.00</th>
+        <th class="Header">完全一致</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">コンテキスト一致</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <th class="Header">繰り返し</th>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.00%</td>
+      <td>0</td>
+      <td>0</td>
+      <tr>
+        <th class="Header">ファイル間の繰り返し</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">内部:</th>
+        <td class="WithLineAbove" colspan="6"></td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">新規作成</th>
+        <td class="WithLineAbove">1</td>
+        <td class="WithLineAbove">5</td>
+        <td class="WithLineAbove">16</td>
+        <td class="WithLineAbove">50.00%</td>
+        <td class="WithLineAbove">0</td>
+        <td class="WithLineAbove">0</td>
+      </tr>
+      <tr>
+        <th class="Total">合計</th>
+        <td class="Total">2</td>
+        <td class="Total">7</td>
+        <td class="Total">21</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+    <h2>ファイルの詳細</h2>
+    <table class="ReportTable" border="0" cellspacing="0" cellpadding="2" width="100%">
+      <tr>
+        <th class="TypeHead" width="100%">ファイル</th>
+        <th class="TypeHead">種類</th>
+        <th class="Unit">分節</th>
+        <th class="Unit">単語数</th>
+        <th class="Unit">文字数</th>
+        <th class="Unit">パーセント</th>
+        <th class="Unit">認識済みトークン</th>
+        <th class="Unit">タグ</th>
+      </tr>
+      <tr>
+        <th class="File" align="left" valign="top">sample.txt.sdlxliff</th>
+        <th class="Header">ロック済み </th>
+        <td>1</td>
+        <td>2</td>
+        <td>5</td>
+        <td>50.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="CharPerWord" rowspan="16" align="left" valign="top">文字数/単語数:3.00</th>
+        <th class="Header">完全一致</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">コンテキスト一致</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <th class="Header">繰り返し</th>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.00%</td>
+      <td>0</td>
+      <td>0</td>
+      <tr>
+        <th class="Header">ファイル間の繰り返し</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">100%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="Header">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">内部:</th>
+        <td class="WithLineAbove" colspan="6"></td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">95% - 99%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">85% - 94%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">75% - 84%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithIndent">50% - 74%</th>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0.00%</td>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th class="HeaderWithLineAbove">新規作成</th>
+          <td class="WithLineAbove">1</td>
+          <td class="WithLineAbove">5</td>
+          <td class="WithLineAbove">16</td>
+          <td class="WithLineAbove">50.00%</td>
+          <td class="WithLineAbove">0</td>
+          <td class="WithLineAbove">0</td>
+      </tr>
+      <tr>
+        <th class="Total">合計</th>
+        <td class="Total">2</td>
+        <td class="Total">7</td>
+        <td class="Total">21</td>
+        <td class="Total">100%</td>
+        <td class="Total">0</td>
+        <td class="Total">0</td>
+      </tr>
+    </table>
+  </body>
+</html>

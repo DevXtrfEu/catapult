@@ -1,0 +1,23 @@
+File	Internal repetitions	Pretrans.	Check	100%	99-95%	94-85%	84-75%	74-50%	Not trans.	Total
+A0 - Trattore_en	2	790	6	0	2	19	14	0	8	841
+B0 - Motore_en	0	491	0	0	0	0	9	0	0	500
+C0 - Accessori motore_en	9	92	40	0	2	0	0	0	3	146
+D0 - Trasmissione_A4_en	0	2223	23	0	51	10	15	33	102	2457
+E0 - Assale Posteriore_en	7	1746	5	0	7	30	5	1	1	1802
+F0 - Assale Anteriore_en	96	4418	13	0	65	16	0	21	0	4629
+G0 - Cabina_en	15	1533	0	0	20	12	25	18	123	1746
+H0 - Impianto Idraulico_en	22	4491	3	0	33	95	44	15	347	5050
+H1 - Impianto Idraulico A3_en	6	2265	0	0	0	5	0	3	2	2281
+L0 - Impianto Elettrico_en	163	4483	2	0	45	36	80	13	185	5007
+L10a - Manuale Distributori_en	0	1923	0	0	4	7	14	6	21	1975
+L10b - Manuale SDS_en	3	850	0	0	0	0	0	0	27	880
+L10c - Diagnostica Strumento_en	0	756	0	0	0	0	0	0	0	756
+L10d - Diagnostica HLHP_en	10	3333	8	0	34	26	98	4	141	3654
+L10f - Tararura Trasmissione_en	78	3595	0	0	104	229	6	18	53	4083
+M0 - PTO Anteriore_en	12	839	19	0	0	0	15	12	25	922
+N0 - Sollevatore anteriore_en	8	684	0	0	0	5	0	0	0	697
+R0 - Sollevatore posteriore_en	7	675	43	0	19	6	10	32	60	852
+S0 - Ruote_en	9	765	21	0	3	6	0	0	0	804
+Totals	447	35952	183	0	389	502	335	176	1098	39082
+Totals with weighting factor	0	0	183	0	389	502	335	176	1098	2683
+Totals with expansion factor	0	0	183	0	389	502	335	176	1098	2683

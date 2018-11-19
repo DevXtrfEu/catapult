@@ -1,0 +1,77 @@
+
+File:               Agreement (1).docx
+Date:               2011-11-11 03:25:51 UTC
+Project:            Log File Test Project
+Language direction: de > zh_cn
+
+Match Types       Segments        Words      Percent
+Translated               0            0            0
+Context Match            0            0            0
+Repetitions              0            0            0
+Format Change            0            0            0
+100%                     0            0            0
+95% - 99%                0            0            0
+85% - 94%                0            0            0
+75% - 84%                0            0            0
+50% - 74%                0            0            0
+No Match                48          892          100
+Total                   48          892          100
+Chars/word            7.41
+
+File:               Highlights (1).pptx
+Date:               2011-11-11 03:25:51 UTC
+Project:            Log File Test Project
+Language direction: de > zh_cn
+
+Match Types       Segments        Words      Percent
+Translated               0            0            0
+Context Match            0            0            0
+Repetitions             10           99        71.74
+Format Change            0            0            0
+100%                     0            0            0
+95% - 99%                0            0            0
+85% - 94%                0            0            0
+75% - 84%                0            0            0
+50% - 74%                0            0            0
+No Match                 4           39        28.26
+Total                   14          138          100
+Chars/word            8.05
+
+File:               Guidelines (1).xml
+Date:               2011-11-11 03:25:51 UTC
+Project:            Log File Test Project
+Language direction: de > zh_cn
+
+Match Types       Segments        Words      Percent
+Translated               0            0            0
+Context Match            0            0            0
+Repetitions            103          733         7.49
+Format Change            0            0            0
+100%                     0            0            0
+95% - 99%                0            0            0
+85% - 94%                0            0            0
+75% - 84%                0            0            0
+50% - 74%                0            0            0
+No Match               367         9050        92.51
+Total                  470         9783          100
+Chars/word            6.69
+
+
+Total:              3 files
+Date:               2011-11-11 03:25:51 UTC
+Project:            Log File Test Project
+Language direction: de > zh_cn
+
+Match Types       Segments        Words      Percent
+Translated               0            0            0
+Context Match            0            0            0
+Repetitions            113          832         7.69
+Format Change            0            0            0
+100%                     0            0            0
+95% - 99%                0            0            0
+85% - 94%                0            0            0
+75% - 84%                0            0            0
+50% - 74%                0            0            0
+No Match               419         9981        92.31
+Total                  532        10813          100
+Chars/word            6.76

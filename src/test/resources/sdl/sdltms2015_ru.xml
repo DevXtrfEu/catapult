@@ -1,0 +1,43 @@
+<task name="analyse">
+	<taskInfo taskId="1f03ec64-ef8d-46f2-9efc-8646df420494" runAt="2015-06-17 08:19:38" runTime="1 seconds">
+		<project name="2015-5-133-SDL [EN-US]-[PL] CAT" number="c49cb000-8650-4ddd-b4d2-f254ab3a9d65" dueDate="2016-01-01 17:00:00"/>
+		<language lcid="1045" name="Polish (Poland)"/>
+		<tm name="Default Translation Memory for EN-US TO PL for Customer C000002.sdltm"/>
+		<tm name="2015-5-133-SDL [EN-US]-[PL] CAT_Default Translation Memory for EN-US TO PL for Customer C000002.sdltm"/>
+		<settings reportInternalFuzzyLeverage="no" reportLockedSegmentsSeparately="no" reportCrossFileRepetitions="yes" minimumMatchScore="70"
+				  searchMode="bestWins" missingFormattingPenalty="1" differentFormattingPenalty="1" multipleTranslationsPenalty="1" autoLocalizationPenalty="0"
+				  textReplacementPenalty="0"/>
+	</taskInfo>
+	<file name="Article for translation.docx.sdlxliff" guid="a352b280-e440-46e2-a2cd-3e63f45a41ff">
+		<analyse>
+			<perfect segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<inContextExact segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<exact segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<locked segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<crossFileRepeated segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<repeated segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<total segments="1" words="3" characters="12" placeables="0" tags="0"/>
+			<new segments="1" words="3" characters="12" placeables="0" tags="0"/>
+			<fuzzy min="50" max="74" segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<fuzzy min="75" max="84" segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<fuzzy min="85" max="94" segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<fuzzy min="95" max="99" segments="0" words="0" characters="0" placeables="0" tags="0"/>
+		</analyse>
+	</file>
+	<batchTotal>
+		<analyse>
+			<perfect segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<inContextExact segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<exact segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<locked segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<crossFileRepeated segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<repeated segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<total segments="1" words="3" characters="12" placeables="0" tags="0"/>
+			<new segments="1" words="3" characters="12" placeables="0" tags="0"/>
+			<fuzzy min="50" max="74" segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<fuzzy min="75" max="84" segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<fuzzy min="85" max="94" segments="0" words="0" characters="0" placeables="0" tags="0"/>
+			<fuzzy min="95" max="99" segments="0" words="0" characters="0" placeables="0" tags="0"/>
+		</analyse>
+	</batchTotal>
+</task>

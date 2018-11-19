@@ -1,0 +1,94 @@
+## SDL Analyse Log file ##
+
+Created:
+  Date    :  Friday, August 12, 2005
+  Time    :  09:49:10
+  Version :  V2005 (Build 5028)
+
+New Files:
+  Selected :    1
+
+Old Files:
+  Selected :    0
+
+Translation Memories:
+  No translation memories selected.
+
+Translation Memory Options:
+- Minimum Match Value:            n/a
+- Context Mismatch Penalty:       1%
+- Filter Mismatch Penalty:        1%
+- Using Target Language:          n/a
+
+Autopropagation Options:
+- Enabled:                        Yes
+- Minimum Match Value:            75%
+
+Cross File Repetitions:
+- Enabled:                        Yes
+
+Automatch Options:
+- Enabled:                        Yes
+- Dates:                          Yes
+- Numbers:                        Yes
+- Acronyms:                       Yes
+
+General Options:
+- Word Count Algorithm:           Standard
+- Hide Number Segments:           No
+- Segmentation Rules:             TagEditor Style Default
+
+Starting analysis process....
+
+
+File :    S:\2005\Klienci\Europa\Napos Oldal tr\EU1352\do analizy\M72797-electrical(apcd)-PLTRtable.rtf
+
+    File Statistics:
+                                 Segments   TM Words   AP Words   Total   Percentage   Char Count (Spaces)   Char Count (No Spaces)
+    Replicated :                        8          -         48      48  (     0.4%)                   304                      265
+    100% matched :                      0          0          -       0  (     0.0%)                     0                        0
+    95% to 99% matched :              119          0       1209    1209  (    10.8%)                  6910                     5859
+    85% to 94% matched :               52          0        597     597  (     5.3%)                  3759                     3232
+    75% to 84% matched :              119          0       1069    1069  (     9.5%)                  6776                     5842
+    50% to 74% matched :                0          0          0       0  (     0.0%)                     0                        0
+    Untranslated :                    862          -          -    8290  (    73.9%)                 51812                    44460
+    Totals :                         1160          0       2923   11213                              69561                    59658
+
+    Time taken to process file :    0 minutes, 42 seconds
+
+
+
+Files containing frequently occurring units (by number of segments).....
+
+   Segments     Words   Filename
+
+
+Analysis of frequently occurring unit ITD :
+
+                                 Segments   Words   Percentage
+    Replicated :                        6      35  (    30.4%)
+    95% to 99% matched :                4      16  (    13.9%)
+    85% to 94% matched :                0       0  (     0.0%)
+    75% to 84% matched :                1       5  (     4.3%)
+    50% to 74% matched :                0       0  (     0.0%)
+    Untranslated :                     11      59  (    51.3%)
+    Totals :                           22     115
+
+
+.....analysis completed
+
+Total time taken :           0 minutes,        43 seconds
+
+Batch Statistics :
+                             Segments   TM Words   AP Words   Total   Percentage   Char Count (Spaces)   Char Count (No Spaces)
+Replicated :                        8          -         48      48  (     0.4%)                   304                      265
+100% matched :                      0          0          -       0  (     0.0%)                     0                        0
+95% to 99% matched :              119          0       1209    1209  (    10.8%)                  6910                     5859
+85% to 94% matched :               52          0        597     597  (     5.3%)                  3759                     3232
+75% to 84% matched :              119          0       1069    1069  (     9.5%)                  6776                     5842
+50% to 74% matched :                0          0          0       0  (     0.0%)                     0                        0
+Untranslated :                    862          -          -    8290  (    73.9%)                 51812                    44460
+Totals :                         1160          0       2923   11213                              69561                    59658
+
+
+################################################

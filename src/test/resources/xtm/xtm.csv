@@ -1,0 +1,16 @@
+Project name;aaaaaaaaa;File name;PKP EMU 250-MR-16A-SEZ01.docx;Target language;pl_PL;Linguist;Anna Aaaaaaaaaaaa;Step name;translate1;
+Initial;Segments;Words;Characters;Characters %;Characters excluding spaces
+Total count;450;2016;12678;100%;11128
+Non-translatable;150;163;375;3%;357
+Translation memory matching
+Modified ICE match;0;0;0;0%;0
+Leveraged match;126;781;5222;41%;4579
+95-99% Fuzzy match;0;0;0;0%;0
+85-94% Fuzzy match;0;0;0;0%;0
+75-84% Fuzzy match;0;0;0;0%;0
+Internal matching
+Repeat;76;213;1430;11%;1291
+95-99% Fuzzy repeat;4;71;709;6%;441
+85-94% Fuzzy repeat;10;107;548;4%;548
+75-84% Fuzzy repeat;19;172;1115;9%;966
+No matching;65;509;3279;26%;2946

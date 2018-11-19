@@ -1,0 +1,63 @@
+﻿Start Analyse: Wed Dec 07 11:58:28 2011
+
+Translation Memory: Z:\INSTRUKCJE OD KLIENTOW\aaaaaaaaaaTM\CLAAS\GER-RUS\GER-RUS.tmw
+
+Z:\all-xtrf-projects\02_PROJECTS\2011\CLAAS_KGaA_mbH\11\2011_5450\2011_5450_8_DE_RU\Source_Files\tr\Niederbacher_Länderreport Italien_07.12.2011.ppt.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions        31           95      22         13
+ 100%               20           20       5          5
+ 95% - 99%           3            4       1          1
+ 85% - 94%           2            2       0          0
+ 75% - 84%           1            1       0          0
+ 50% - 74%           0            0       0          0
+ No Match          110          307      72         32
+ Total             167          429     100         51
+
+ Chars/Word       7.69
+ Chars Total     3,303
+
+
+
+Z:\all-xtrf-projects\02_PROJECTS\2011\CLAAS_KGaA_mbH\11\2011_5450\2011_5450_8_DE_RU\Source_Files\tr\SLAJD 5.doc
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions         0            0       0          0
+ 100%                0            0       0          0
+ 95% - 99%           0            0       0          0
+ 85% - 94%           0            0       0          0
+ 75% - 84%           0            0       0          0
+ 50% - 74%           0            0       0          0
+ No Match            5           16     100          0
+ Total               5           16     100          0
+
+ Chars/Word       5.93
+ Chars Total        95
+
+
+
+Analyse Total (2 files):
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions        31           95      21         13
+ 100%               20           20       4          5
+ 95% - 99%           3            4       1          1
+ 85% - 94%           2            2       0          0
+ 75% - 84%           1            1       0          0
+ 50% - 74%           0            0       0          0
+ No Match          115          323      74         32
+ Total             172          445     100         51
+
+ Chars/Word       7.63
+ Chars Total     3,398
+
+
+
+Analyse finished successfully without errors!
+
+Wed Dec 07 11:58:29 2011
+================================================================================
+

@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Author>asc</Author>
+<LastAuthor>rco</LastAuthor>
+<LastPrinted>2008-08-13T19:00:00Z</LastPrinted>
+<Created>2007-07-04T07:16:31Z</Created>
+<LastSaved>2014-11-13T11:59:26Z</LastSaved>
+<Company>STAR LTS</Company>
+<Version>14.00</Version>
+</DocumentProperties>
+<OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+<DownloadComponents></DownloadComponents>
+<LocationOfComponents HRef="file:///F:\"></LocationOfComponents>
+</OfficeDocumentSettings>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<WindowHeight>11355</WindowHeight>
+<WindowWidth>13035</WindowWidth>
+<WindowTopX>-15</WindowTopX>
+<WindowTopY>-15</WindowTopY>
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="Default" ss:Name="Normal">
+<Alignment ss:Vertical="Bottom"></Alignment>
+<Borders></Borders>
+<Font ss:FontName="Arial" x:Family="Swiss"></Font>
+<Interior></Interior>
+<NumberFormat></NumberFormat>
+<Protection></Protection>
+</Style>
+<!--====================================================-->
+<!-- Begin defined Styles for XSL transformation        -->
+<!--====================================================-->
+<Style ss:ID="t2eA">
+<Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders></Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<NumberFormat ss:Format="Fixed"></NumberFormat>
+</Style>
+<Style ss:ID="t2eB">
+<Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders></Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<NumberFormat ss:Format="0"></NumberFormat>
+</Style>
+<Style ss:ID="t2eC">
+<Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<NumberFormat ss:Format="#,##0.00\ &quot;€&quot;"></NumberFormat>
+</Style>
+<Style ss:ID="t2eD">
+<Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<NumberFormat ss:Format="[$$-409]#,##0.00"></NumberFormat>
+</Style>
+<Style ss:ID="t2eE">
+<Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<NumberFormat ss:Format="[$£-809]#,##0.00"></NumberFormat>
+</Style>
+<Style ss:ID="t2eF">
+<Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<NumberFormat ss:Format="[$¥-804]#,##0.00"></NumberFormat>
+</Style>
+<Style ss:ID="t2eG">
+<Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<NumberFormat ss:Format="[$CHF-1407]\ #,##0.00"></NumberFormat>
+</Style>
+<Style ss:ID="t2eH">
+<Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<NumberFormat ss:Format="Percent"></NumberFormat>
+</Style>
+<!--====================================================-->
+<!-- End defined Styles for XSL transformation          -->
+<!--====================================================-->
+<Style ss:ID="m105167324">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+<NumberFormat ss:Format="@"></NumberFormat>
+</Style>
+<Style ss:ID="m102579568">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+</Style>
+<Style ss:ID="s65">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center"></Alignment>
+<Borders>
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Bold="1"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+</Style>
+<Style ss:ID="s66">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center"></Alignment>
+<Borders>
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Bold="1"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+</Style>
+<Style ss:ID="s70">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+</Style>
+<Style ss:ID="s71">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders></Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+</Style>
+<Style ss:ID="s73">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center"></Alignment>
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+</Style>
+<Style ss:ID="s74">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center"></Alignment>
+<Borders></Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+</Style>
+<Style ss:ID="s81">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+</Style>
+<Style ss:ID="s83">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Bold="1"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+</Style>
+<Style ss:ID="s84">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders></Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Bold="1"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+</Style>
+<Style ss:ID="s86">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders></Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+<NumberFormat ss:Format="@"></NumberFormat>
+</Style>
+<Style ss:ID="s89">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+<NumberFormat ss:Format="@"></NumberFormat>
+</Style>
+<Style ss:ID="s91">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+<NumberFormat></NumberFormat>
+</Style>
+<Style ss:ID="s93">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders></Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+<NumberFormat></NumberFormat>
+</Style>
+<Style ss:ID="s95">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Bold="1"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+</Style>
+<Style ss:ID="s96">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Bold="1"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+</Style>
+<Style ss:ID="s98">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<Interior ss:Color="#CCFFFF" ss:Pattern="Solid"></Interior>
+<NumberFormat></NumberFormat>
+</Style>
+<Style ss:ID="s104">
+<Alignment ss:Vertical="Bottom" ss:WrapText="1"></Alignment>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+</Style>
+<Style ss:ID="s105">
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+</Style>
+<Style ss:ID="s106">
+<Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Bold="1"></Font>
+<Interior></Interior>
+<NumberFormat ss:Format="@"></NumberFormat>
+</Style>
+<Style ss:ID="s107">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Italic="1"></Font>
+<NumberFormat ss:Format="@"></NumberFormat>
+</Style>
+<Style ss:ID="s108">
+<Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"></Alignment>
+<Borders></Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<NumberFormat ss:Format="@"></NumberFormat>
+</Style>
+<Style ss:ID="s109">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom"></Alignment>
+<Borders>
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Italic="1"></Font>
+<NumberFormat ss:Format="@"></NumberFormat>
+</Style>
+<Style ss:ID="s110">
+<Alignment ss:Horizontal="Center" ss:Vertical="Bottom"></Alignment>
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<NumberFormat ss:Format="@"></NumberFormat>
+</Style>
+<Style ss:ID="s111">
+<Alignment ss:Horizontal="Center" ss:Vertical="Bottom"></Alignment>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<NumberFormat ss:Format="@"></NumberFormat>
+</Style>
+<Style ss:ID="s112">
+<Alignment ss:Horizontal="Right" ss:Vertical="Bottom" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"></Border>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Italic="1"></Font>
+<NumberFormat ss:Format="@"></NumberFormat>
+</Style>
+<Style ss:ID="s113">
+<Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"></Alignment>
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"></Border>
+</Borders>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"></Font>
+<NumberFormat ss:Format="@"></NumberFormat>
+</Style>
+<Style ss:ID="s114">
+<Alignment ss:Horizontal="Left" ss:Vertical="Center"></Alignment>
+<Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"></Font>
+</Style>
+</Styles>
+<Names>
+<NamedRange ss:Name="fileName" ss:RefersTo="=Tabelle1!R14C1"></NamedRange>
+</Names>
+<Worksheet ss:Name="Tabelle1">
+<Table ss:ExpandedColumnCount="14" ss:ExpandedRowCount="65535" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="60">
+<Column ss:AutoFitWidth="0" ss:Width="135"></Column>
+<Column ss:AutoFitWidth="0" ss:Width="64.5" ss:Span="12"></Column>
+<Row ss:AutoFitHeight="0" ss:Height="20.0625">
+<Cell ss:MergeAcross="3" ss:StyleID="s114">
+<Data ss:Type="String">Transit Import Report</Data>
+</Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"></Row>
+<Row ss:Index="4" ss:AutoFitHeight="0" ss:Height="15">
+<Cell ss:MergeAcross="1" ss:StyleID="s65">
+<Data ss:Type="String">Project:</Data>
+</Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="s70">
+<Data ss:Type="String">ea73eb88-609c-4434-979f-98bb013913ae_TRK_00_all</Data>
+</Cell>
+<Cell ss:MergeAcross="2" ss:StyleID="s73"></Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="m102579568"></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="15">
+<Cell ss:MergeAcross="1" ss:StyleID="s66">
+<Data ss:Type="String">Customer:</Data>
+</Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="s71">
+<Data ss:Type="String"></Data>
+</Cell>
+<Cell ss:MergeAcross="2" ss:StyleID="s74"></Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="s81"></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="15">
+<Cell ss:MergeAcross="1" ss:StyleID="s83">
+<Data ss:Type="String">Source language:</Data>
+</Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="s86">
+<Data ss:Type="String">French</Data>
+</Cell>
+<Cell ss:MergeAcross="2" ss:StyleID="s84">
+<Data ss:Type="String">Target language:</Data>
+</Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="s89">
+<Data ss:Type="String">Turkish</Data>
+</Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="15">
+<Cell ss:MergeAcross="1" ss:StyleID="s83">
+<Data ss:Type="String">Units:</Data>
+</Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="s86">
+<Data ss:Type="String">Words</Data>
+</Cell>
+<Cell ss:MergeAcross="2" ss:StyleID="s84">
+<Data ss:Type="String">Count units in:</Data>
+</Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="s89">
+<Data ss:Type="String">Source language</Data>
+</Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="15">
+<Cell ss:MergeAcross="1" ss:StyleID="s83">
+<Data ss:Type="String">Regard internal repetitions:</Data>
+</Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="s86">
+<Data ss:Type="String">Per project</Data>
+</Cell>
+<Cell ss:MergeAcross="2" ss:StyleID="s84">
+<Data ss:Type="String">Internal repetitions count limit:</Data>
+</Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="s91">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">1</Data>
+</Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="15">
+<Cell ss:MergeAcross="1" ss:StyleID="s83">
+<Data ss:Type="String">Expansion factor:</Data>
+</Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="s93">
+<Data ss:Type="String">1.00</Data>
+</Cell>
+<Cell ss:MergeAcross="2" ss:StyleID="s84">
+<Data ss:Type="String">Units counted:</Data>
+</Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="s89">
+<Data ss:Type="String">All</Data>
+</Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="15">
+<Cell ss:MergeAcross="1" ss:StyleID="s95"></Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="s98"></Cell>
+<Cell ss:MergeAcross="2" ss:StyleID="s96">
+<Data ss:Type="String">Price per unit:</Data>
+</Cell>
+<Cell ss:MergeAcross="1" ss:StyleID="m105167324">
+<Data ss:Type="String"></Data>
+</Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="15"></Row>
+<Row ss:AutoFitHeight="0" ss:Height="15">
+<Cell ss:MergeAcross="9" ss:StyleID="s104">
+<Data ss:Type="String">Transit rounds up the values it displays but calculates using exact values.</Data>
+</Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="15">
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+<Cell ss:StyleID="s105"></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s106">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">File</Data>
+</Cell>
+<Cell ss:StyleID="s106">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">Pretranslated</Data>
+</Cell>
+<Cell ss:StyleID="s106">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">Translated (paragraph context)</Data>
+</Cell>
+<Cell ss:StyleID="s106">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">Translated (structure context)</Data>
+</Cell>
+<Cell ss:StyleID="s106">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">Check pretranslation</Data>
+</Cell>
+<Cell ss:StyleID="s106">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">100</Data>
+</Cell>
+<Cell ss:StyleID="s106">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">Fuzzy 99 - 70</Data>
+</Cell>
+<Cell ss:StyleID="s106">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">Units not translated</Data>
+</Cell>
+<Cell ss:StyleID="s106">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">Total</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s107">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">CMS_0008377759_201710_000039</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">141</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">50</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">207</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">50</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">8</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">456</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s107">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">CMS_0008403016_201810_000003</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">27</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">11</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">18</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">6</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">56</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">118</Data>
+</Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="15">
+<Cell ss:StyleID="s109"></Cell>
+<Cell ss:StyleID="s110"></Cell>
+<Cell ss:StyleID="s110"></Cell>
+<Cell ss:StyleID="s110"></Cell>
+<Cell ss:StyleID="s110"></Cell>
+<Cell ss:StyleID="s110"></Cell>
+<Cell ss:StyleID="s110"></Cell>
+<Cell ss:StyleID="s110"></Cell>
+<Cell ss:StyleID="s110"></Cell>
+<Cell ss:StyleID="s110"></Cell>
+<Cell ss:StyleID="s111"></Cell>
+<Cell ss:StyleID="s111"></Cell>
+<Cell ss:StyleID="s111"></Cell>
+<Cell ss:StyleID="s111"></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s112">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">Totals</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">168</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">61</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">225</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">56</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">64</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">574</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s107">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">Internal repetitions found (reduced by limit)</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s107">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">Totals (not including internal repetitions)</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">168</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">61</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">225</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">56</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">64</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">574</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s107">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">Totals with weighting factor</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">168</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">225</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">56</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">64</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">513</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s107">
+<Data ss:Type="String" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">Totals with expansion factor</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">168</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">0</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">225</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">56</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">64</Data>
+</Cell>
+<Cell ss:StyleID="t2eB">
+<Data ss:Type="Number" xmlns:excel="urn:schemas-microsoft-com:office:spreadsheet">513</Data>
+</Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<PageSetup>
+<Layout x:Orientation="Landscape"></Layout>
+<Header x:Margin="0.3"></Header>
+<Footer x:Margin="0.3"></Footer>
+<PageMargins x:Bottom="0.75" x:Left="0.25" x:Right="0.25" x:Top="0.75"></PageMargins>
+</PageSetup>
+<FitToPage></FitToPage>
+<Print>
+<ValidPrinterInfo></ValidPrinterInfo>
+<PaperSizeIndex>9</PaperSizeIndex>
+<HorizontalResolution>600</HorizontalResolution>
+<VerticalResolution>600</VerticalResolution>
+</Print>
+<Selected></Selected>
+<Panes>
+<Pane>
+<Number>3</Number>
+<RangeSelection>R1C1:R1C4</RangeSelection>
+</Pane>
+</Panes>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="Tabelle2">
+<Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="65535" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="60"></Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<PageSetup>
+<Layout x:Orientation="Landscape"></Layout>
+<Header x:Margin="0.4921259845"></Header>
+<Footer x:Margin="0.4921259845"></Footer>
+<PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996" x:Right="0.78740157499999996" x:Top="0.984251969"></PageMargins>
+</PageSetup>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="Tabelle3">
+<Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="65535" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="60"></Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<PageSetup>
+<Layout x:Orientation="Landscape"></Layout>
+<Header x:Margin="0.4921259845"></Header>
+<Footer x:Margin="0.4921259845"></Footer>
+<PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996" x:Right="0.78740157499999996" x:Top="0.984251969"></PageMargins>
+</PageSetup>
+<ProtectObjects>False</ProtectObjects>
+<ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>

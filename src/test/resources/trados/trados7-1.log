@@ -1,0 +1,188 @@
+﻿Start Analyse: Tue Jan 24 10:14:06 2006
+
+Translation Memory: S:\TM\Reggiani\ENP\ENP_eng-fre.tmw
+
+S:\all-xtrf-projects\2006\Reggiani\2006_137\SOURCE\ENP_Part 2_20060119\uncleaned FRE\01072003_en.xml.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions         0            0       0          0
+ 100%                0            0       0          0
+ 95% - 99%           0            0       0          0
+ 85% - 94%           2           13       1          1
+ 75% - 84%           1            7       1          0
+ 50% - 74%           1            6       0          0
+ No Match           58        1,318      98         59
+ Total              62        1,344     100         60
+
+ Chars/Word       5.69
+ Chars Total     7,648
+
+
+
+S:\all-xtrf-projects\2006\Reggiani\2006_137\SOURCE\ENP_Part 2_20060119\uncleaned FRE\06122003_en.xml.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions         0            0       0          0
+ 100%                0            0       0          0
+ 95% - 99%           0            0       0          0
+ 85% - 94%           0            0       0          0
+ 75% - 84%           0            0       0          0
+ 50% - 74%           0            0       0          0
+ No Match           17          445     100         52
+ Total              17          445     100         52
+
+ Chars/Word       5.55
+ Chars Total     2,473
+
+
+
+S:\all-xtrf-projects\2006\Reggiani\2006_137\SOURCE\ENP_Part 2_20060119\uncleaned FRE\07112003_en.xml.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions         3           61       8         48
+ 100%                0            0       0          0
+ 95% - 99%           0            0       0          0
+ 85% - 94%           0            0       0          0
+ 75% - 84%           2            8       1          1
+ 50% - 74%           0            0       0          0
+ No Match           24          671      91         10
+ Total              29          740     100         59
+
+ Chars/Word       5.57
+ Chars Total     4,125
+
+
+
+S:\all-xtrf-projects\2006\Reggiani\2006_137\SOURCE\ENP_Part 2_20060119\uncleaned FRE\09072003_en.xml.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions         2           55      11         48
+ 100%                0            0       0          0
+ 95% - 99%           0            0       0          0
+ 85% - 94%           0            0       0          0
+ 75% - 84%           0            0       0          0
+ 50% - 74%           0            0       0          0
+ No Match           20          448      89          1
+ Total              22          503     100         49
+
+ Chars/Word       5.85
+ Chars Total     2,943
+
+
+
+S:\all-xtrf-projects\2006\Reggiani\2006_137\SOURCE\ENP_Part 2_20060119\uncleaned FRE\11032003_en.xml.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions         3           58       3         48
+ 100%                0            0       0          0
+ 95% - 99%           0            0       0          0
+ 85% - 94%           0            0       0          0
+ 75% - 84%           0            0       0          0
+ 50% - 74%           0            0       0          0
+ No Match           84        1,969      97          7
+ Total              87        2,027     100         55
+
+ Chars/Word       5.76
+ Chars Total    11,695
+
+
+
+S:\all-xtrf-projects\2006\Reggiani\2006_137\SOURCE\ENP_Part 2_20060119\uncleaned FRE\11092003_en.xml.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions         2           55       9         48
+ 100%                0            0       0          0
+ 95% - 99%           0            0       0          0
+ 85% - 94%           0            0       0          0
+ 75% - 84%           0            0       0          0
+ 50% - 74%           0            0       0          0
+ No Match           21          579      91          2
+ Total              23          634     100         50
+
+ Chars/Word       5.39
+ Chars Total     3,420
+
+
+
+S:\all-xtrf-projects\2006\Reggiani\2006_137\SOURCE\ENP_Part 2_20060119\uncleaned FRE\16062003_en.xml.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions         2           41       2         36
+ 100%                0            0       0          0
+ 95% - 99%           0            0       0          0
+ 85% - 94%           1            2       0          0
+ 75% - 84%           0            0       0          0
+ 50% - 74%           7            7       0          7
+ No Match           78        1,827      98         95
+ Total              88        1,877     100        138
+
+ Chars/Word       5.72
+ Chars Total    10,743
+
+
+
+S:\all-xtrf-projects\2006\Reggiani\2006_137\SOURCE\ENP_Part 2_20060119\uncleaned FRE\links_en.xml.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions         3           19      13          0
+ 100%               12           12       8          0
+ 95% - 99%           0            0       0          0
+ 85% - 94%           0            0       0          0
+ 75% - 84%           0            0       0          0
+ 50% - 74%           0            0       0          0
+ No Match           16          111      79         77
+ Total              31          142     100         77
+
+ Chars/Word       6.63
+ Chars Total       942
+
+
+
+S:\all-xtrf-projects\2006\Reggiani\2006_137\SOURCE\ENP_Part 2_20060119\uncleaned FRE\whatsnew_en.xml.ttx
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions         9           46       7          7
+ 100%                6           33       5          0
+ 95% - 99%           9           58       9          6
+ 85% - 94%           1            6       1          0
+ 75% - 84%           4           39       6          6
+ 50% - 74%           3           39       6          0
+ No Match           51          459      66        146
+ Total              83          680     100        165
+
+ Chars/Word       6.23
+ Chars Total     4,243
+
+
+
+Analyse Total (9 files):
+
+ Match Types  Segments        Words Percent Placeables
+ Context TM          0            0       0          0
+ Repetitions        24          335       4        235
+ 100%               18           45       1          0
+ 95% - 99%           9           58       1          6
+ 85% - 94%           4           21       0          1
+ 75% - 84%           7           54       1          7
+ 50% - 74%          11           52       1          7
+ No Match          369        7,827      92        449
+ Total             442        8,392     100        705
+
+ Chars/Word       5.74
+ Chars Total    48,232
+
+
+
+Analyse finished successfully without errors!
+
+Tue Jan 24 10:14:29 2006
+================================================================================

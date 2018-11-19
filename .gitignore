@@ -1,0 +1,13 @@
+# ignore eclipse & maven files
+.classpath
+.project
+.settings/
+target/
+/test-output
+pom.xml.releaseBackup
+release.properties
+.idea
+*.iml
+atlassian-ide-plugin.xml
+.gitreview
+

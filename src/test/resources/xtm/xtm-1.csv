@@ -1,0 +1,20 @@
+Project name;Hamlet Act 3;File name;GENERAL;Target language;French;
+Initial;Segments;Words;Word %;Characters;Characters %;Characters excluding spaces
+Total count;1026;5776;100%;30486;100%;25743
+Non-translatable;0;0;0%;0;0%;0
+Translation memory matching
+ICE match;24;186;3%;971;3%;809
+Leveraged match;7;51;1%;271;1%;227
+95-99% Fuzzy match;0;0;0%;0;0%;0
+85-94% Fuzzy match;2;16;0%;85;0%;72
+75-84% Fuzzy match;1;8;0%;45;0%;38
+Internal matching
+Repeat;190;237;4%;1637;5%;1590
+95-99% Fuzzy repeat;0;0;0%;0;0%;0
+85-94% Fuzzy repeat;0;0;0%;0;0%;0
+75-84% Fuzzy repeat;10;36;1%;240;1%;214
+No matching;792;5242;91%;27237;89%;22793
+Progress - Translate 1
+Done;24;186;3%;971;3%;809
+To be done;1002;5590;97%;29515;97%;24934
+To be corrected;0;0;0%;0;0%;0
